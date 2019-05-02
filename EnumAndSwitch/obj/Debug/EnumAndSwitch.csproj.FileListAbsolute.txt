@@ -1,0 +1,7 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\bin\Debug\EnumAndSwitch.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\bin\Debug\EnumAndSwitch.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\bin\Debug\EnumAndSwitch.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\obj\Debug\EnumAndSwitch.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\obj\Debug\EnumAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\obj\Debug\EnumAndSwitch.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\EnumAndSwitch\obj\Debug\EnumAndSwitch.pdb

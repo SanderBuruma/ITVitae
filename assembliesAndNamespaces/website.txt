@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Barnhardt | Judica me, Deus, et discerne causam meam de gente non sancta.</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.barnhardt.biz/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://www.barnhardt.biz/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Barnhardt &raquo; Feed" href="https://www.barnhardt.biz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Barnhardt &raquo; Comments Feed" href="https://www.barnhardt.biz/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.barnhardt.biz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.barnhardt.biz/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css' href='https://www.barnhardt.biz/wp-content/themes/twentytwelve/style.css?ver=5.1.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='https://www.barnhardt.biz/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.barnhardt.biz/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.barnhardt.biz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.barnhardt.biz/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.barnhardt.biz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.barnhardt.biz/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.1.1" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.barnhardt.biz/wp-content/uploads/2017/02/background.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+</head>
+<body class="home blog custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+<header id="masthead" class="site-header" role="banner">
+<hgroup>
+<h1 class="site-title"><a href="https://www.barnhardt.biz/" title="Barnhardt" rel="home">Barnhardt</a></h1>
+<h2 class="site-description">Judica me, Deus, et discerne causam meam de gente non sancta.</h2>
+</hgroup>
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<button class="menu-toggle">Menu</button>
+<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-menu"><li id="menu-item-4443" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-4443"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-4850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4850"><a href="https://www.barnhardt.biz/category/barnhardt-podcast/">Podcast</a></li>
+<li id="menu-item-4444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4444"><a href="https://www.barnhardt.biz/about/">About</a></li>
+<li id="menu-item-4445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4445"><a href="https://www.barnhardt.biz/ann-barnhardts-cattle-marketing-dvd-set/">Ann Barnhardt&#8217;s Cattle Marketing DVD Set</a></li>
+<li id="menu-item-4446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4446"><a href="https://www.barnhardt.biz/anns-recipe-box/">Ann&#8217;s Recipe Box</a>
+<ul class="sub-menu">
+<li id="menu-item-4447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4447"><a href="https://www.barnhardt.biz/anns-recipe-box/herbed-nuts-aka-chunky-heroin/">Herbed Nuts (aka Chunky Heroin)</a></li>
+</ul>
+</li>
+<li id="menu-item-4448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4448"><a href="https://www.barnhardt.biz/contact/">Contact</a></li>
+<li id="menu-item-4449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4449"><a href="https://www.barnhardt.biz/diabolical-narcissism/">DIABOLICAL NARCISSISM</a></li>
+<li id="menu-item-4450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4450"><a href="https://www.barnhardt.biz/disc-jockey-ann/">Disc Jockey Ann</a></li>
+<li id="menu-item-4451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4451"><a href="https://www.barnhardt.biz/faqs/">FAQ&#8217;s</a></li>
+<li id="menu-item-4453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4453"><a href="https://www.barnhardt.biz/latin-rosary/">Latin Rosary</a></li>
+<li id="menu-item-4456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4456"><a href="https://www.barnhardt.biz/the-one-about/">The One Aboutâ€¦</a></li>
+<li id="menu-item-7164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7164"><a href="https://www.barnhardt.biz/the-bergoglian-antipapcy/">The Bergoglian Antipapacy</a></li>
+</ul></div> </nav>
+<a href="https://www.barnhardt.biz/"><img src="https://www.barnhardt.biz/wp-content/uploads/2017/02/cropped-eyes.jpg" class="header-image" width="960" height="250" alt="Barnhardt" /></a>
+</header>
+<div id="main" class="wrapper">
+<div id="primary" class="site-content">
+<div id="content" role="main">
+<article id="post-8141" class="post-8141 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/05/02/let-that-sink-in/" rel="bookmark">Let that sink in&#8230;</a>
+</h1>
+</header>
+<div class="entry-content">
+<p>Shamelessly Rosica-ed from <a href="https://americandigest.org/wp/true-but-forbidden-22-bernie-bros-and-the-idea-of-god/#more-11784" target="_blank" rel="noopener noreferrer">Vanderleun</a>.</p>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0495.jpg" class="size-full wp-image-8140" width="798" height="960" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0495.jpg 798w, https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0495-249x300.jpg 249w, https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0495-768x924.jpg 768w, https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0495-624x751.jpg 624w" sizes="(max-width: 798px) 100vw, 798px" /></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/05/02/let-that-sink-in/" title="4:55 am" rel="bookmark"><time class="entry-date" datetime="2019-05-02T04:55:37-06:00">May 2, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-2536" class="post-2536 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/05/01/jesus-christ-economist-with-handy-visual-aids-and-a-video-appendix/" rel="bookmark">Jesus Christ, Economist</a>
+</h1>
+</header>
+<div class="entry-content">
+<p><em>Originally penned and posted in January ARSH 2011, long before any of us had ever heard the name &#8220;Bergoglio&#8221;. I repost this today, 1 May ARSH 2019, the Feast of St. Joseph the Worker (Artisan), precisely because this day has been coopted by Freemasons-Communists as a class warfare and materialist envy faux-holiday. Having said that, we have a great devotion to St. Joseph, and thus welcome every opportunity to sing his praises and recommend others to his powerful patronage. God writes straight on crooked lines. Happy feast of St. Joseph the Artisan.</em></p>
+<p>The weekend before His Passion, Jesus went and stayed with His friend Lazarus (whom He had raised from the dead) and Lazarusâ€™ sisters Martha and Mary. Mary brought out a very expensive flask of ointment for the dead and applied it to Jesusâ€™ feet with her hair. The whole house was filled with the sweet smell of that ointment. And guess who gets all mouthy about this? Yep. Judas Iscariot â€“ who already was planning to sell out Jesus, and had been planning on cashing in on Him since the miracle of the loaves and fishes a few days earlier. Specifically, <strong>when Jesus told the people that they must eat His Flesh and drink His Blood, and kept repeating it over and over and over again to be sure that everyone understood that He meant it literally, Judas (with urging from satan) decided that Our Lord was nuts and started planning to betray Him and profit from it.</strong> That whole episode is in John chapter 6. Read it.</p>
+<p>Back to Lazarusâ€™ house in John 12. Judas gets all holier-than-thou and complains that the flask of ointment could have been sold for 300 pence and â€œgiven to the poorâ€. Does this not sound like the godless Marxist liberals of today who are so quick to tell everyone else what they should be doing with their money and assets, all in the name of the poor, of course?</p>
+<figure id="attachment_2537" align="alignnone" width="476"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/pope_sickle.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/pope_sickle.jpg" class="size-full wp-image-2537" alt="(Cough)" width="476" height="430"></a> (Cough)</figure>
+<p>Then, an absolutely delightful verse â€“ verse 6:</p>
+<p>â€œNow he said this, not because he cared for the poor; but because he was a thief, and having the purse, carried the things therein.â€</p>
+<p>Um, hello? The Holy Ghost is talking to us. Are we listening? That verse should make the hair on your arms stand up. Is this not a PERFECT mapping to our contemporary situation? You have a â€œdiscipleâ€ who doesnâ€™t really believe in Jesus or what He says â€“ he just pretends to because he thinks he can gain power and wealth by associating with Jesus for now. Heâ€™s just working the â€œJesus angleâ€. But everything he is doing behind the scenes is working in direct opposition to Our Lord. Now, this â€œdiscipleâ€ starts trying to appear pious and devout by pontificating that all wealth and resources should, by definition, be redistributed to â€œthe poorâ€. But in truth, he is just a thief.</p>
+<figure id="attachment_2538" align="alignnone" width="327"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/pope-654.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/pope-654.jpg" class="size-full wp-image-2538" alt="(Cough cough)" width="327" height="257"></a> (Cough cough)</figure>
+<figure id="attachment_2538" align="alignnone" width="327">Can this be any more obvious?</figure>
+<p>Now here is the key passage from Jesus Himself:</p>
+<p>â€œJesus therefore said: Let her alone, that she may keep it against the day of My burial.<strong> For the poor you have always with you</strong>; but Me you have not always.â€</p>
+<p>First of all, Jesus says, â€œLet her alone.â€ (Sinite illam.)</p>
+<p>Judas has appointed himself the arbiter of wealth and asset distribution and has decided that Maryâ€™s flask of ointment (or the cash value thereof) should have gone to &#8220;the poor&#8221;. And Jesus says, â€œLet her alone.â€</p>
+<p>It is hers to do with as she (and her family) sees fit, and they have seen fit to use it to anoint their beloved Jesus.</p>
+<p>Judas, sit down and shut your proto-Marxist piehole. THWAP!</p>
+<figure id="attachment_2539" align="alignnone" width="620"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/Pope-Francis-014.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/Pope-Francis-014.jpg" class="size-full wp-image-2539" alt="(Cough cough cough)" width="620" height="372"></a> (Cough cough cough)</figure>
+<p>In the next phrase, Jesus explains economics in eight words (FIVE in Latin):<br />
+<strong>â€œFor the poor you have always with you.â€ </strong><br />
+<strong>(Pauperes enim semper habetis vobiscum.)</strong></p>
+<p>What does He mean? Does He mean, â€œBah, forget the poor! Live it up!â€</p>
+<h2>Absolutely not. What He is explaining is that in all free societies wealth will always exist within a SPECTRUM.</h2>
+<p>Letâ€™s compare a â€œpoorâ€ person in the U.S. to a â€œpoorâ€ person in Bangladesh. A poor person in Bangladesh lives in the gutter without so much as a cardboard shelter to sleep under. They are sick from malnutrition and starvation. They probably dress in rags, and certainly do not own a pair of shoes. Bathing only occurs when they can immerse themselves in a river, which is opaque with sewage. They own nothing except the rags that they wear. Every day is a struggle to get a bit of clean water and enough food to merely survive. Thatâ€™s a poor person in Bangladesh.</p>
+<p>What constitutes a â€œpoorâ€ person in the U.S.? A poor person in the U.S. does not have cable. A poor person in the U.S. might not have a PC or laptop, ONLY a smartphone. A poor person in the U.S. may have just within the last <del>year or two</del>&nbsp;seven years finally switched from a cathode ray tube television to a flat screen, digital model. A poor person in the U.S. receives food stamps, medicaid and a welfare check. A poor person in the U.S. is probably overweight, and smokes cigarettes. A poor person in the U.S. drives a car that is so old that it came with a factory cassette player. A poor person in the U.S. lives either in a trailer or a HUD apartment complex. <strong>A poor person in the U.S. almost certainly DOES have a smart&nbsp;phone with internet connectivity.</strong></p>
+<p>Understand that on a percentage level, these two descriptions are equivalent. A â€œpoorâ€ person in the U.S. has a standard of living that would be considered luxurious in Bangladesh and other impoverished countries. <strong>The notions of â€œwealthâ€ and â€œpovertyâ€, by logical and mathematical definition, exist within a SPECTRUM. And no matter what we do, that spectrum will always, always exist. That is what Jesus is saying. There will always be a top-end, and there will always be a bottom-end.</strong> In some nations (like Bangladesh), that spectrum is very broad and reaches very far down into poverty, indeed. There are billionaires in Bangladesh, and there are people starving in the gutters in rags. In the U.S., we certainly have a wealth spectrum, but the low end is much higher and the spectrum is much narrower. We have many billionaires, but our lower-end is nowhere NEAR as low as Bangladeshâ€™s.</p>
+<p>The point is, <strong>no matter how much you bring up the bottom-end, there will ALWAYS, by mathematical definition, BE a bottom-end. If the bottom-end were a $100,000 per year household income and a $300,000 home in todayâ€™s dollars, then a household with a $100,000 income and a $300,000 home would be considered â€œpoorâ€, called â€œpoorâ€, and Marxists would tell those â€œpoorâ€ that they were being â€œoppressedâ€ and â€œdeservedâ€ and were â€œentitled toâ€ a $500,000 annual household income and an $800,000 home. DO YOU UNDERSTAND?</strong></p>
+<figure id="attachment_2540" align="alignnone" width="749"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/Doh.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/Doh.jpg" class="size-full wp-image-2540" alt="(Cough cough cough cough)" width="749" height="421"></a> (Cough cough cough cough)</figure>
+<p>Someone is always going to have more money and assets than somebody else. It is impossible to have a free society wherein every person has exactly the same level of wealth. Someone has to be the business OWNER, and someone has to be the EMPLOYEE. Someone has to be the wage PAYER and someone has to be the wage EARNER. If everyone in a culture were economically equal at all times, there would be zero employment because no one would work for anyone except themselves. You canâ€™t have a company with 1000 CEOs. Conversely, you canâ€™t have a company that is nothing but entry-level laborers. Someone has to be responsible. Someone has to sign the paychecks. Someone has to determine the course of the business. Someone has to risk their assets and wealth to start-up the company in the first place. And, at the other end, someone has to scrub the toilets. <strong>The only way to get true, complete equality of wealth would be to KILL EVERYBODY.</strong></p>
+<figure id="attachment_2541" align="alignnone" width="640"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/PF-smiles.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/PF-smiles.jpg" class="size-full wp-image-2541" alt="PF-smiles" width="640" height="360"></a> <em>Stupid Rabbits. Stop obsessing about the baby killing. My friend and consultant Prof. John Schellnhuber says there are 6.5 BILLION too many of you&#8230;.</em></figure>
+<p>Since we know from Jesus that there will always be a wealth spectrum, it is obviously disordered to eliminate said spectrum and collapse it down to a single point of â€œeconomic equalityâ€. To do that would collapse the society itself and result is chaos and poverty for ALL. (Ahem, MARXISM, TYRANNICAL OLIGARCHY, VENEZUELA, cough, cough.)</p>
+<p>What then should the objective be? I think that the former-U.S. and other free-market capitalist societies were the closest humanity has ever been to the ideal, and though imperfect, are certainly pointed in the right direction. The ideal is a healthy wealth spectrum that is always moving higher through growth and moral technological advancements and innovations, is open-ended on the top side, but has an intrinsic morality such that the top-end of the wealth spectrum always makes certain that the bottom end advances apace and that the spectrum maintains its proportional width â€“ or even narrows a bit. This is achieved through personal charity AND through a moral, lawful, CHRISTIAN society that allows for movement both up AND down the spectrum. Yes, up AND DOWN.</p>
+<p>The top-end cooperates with the bottom end to enable upward mobility for those who work hard, and are innovative. Conversely, if someone on the top-end does not work hard or is dishonest in his dealings, he can and will fail and slide back down the spectrum.</p>
+<p>This freedom of movement within the spectrum â€“ both up AND down â€“ is essential. Trapping people on the low-end (ahem, cough, WELFARE STATE, CLOWARD-PIVEN STRATEGY, FREEMASONIC-BERGOGLIAN ANTIPAPACY, cough) is equally as immoral as the disgusting oligarchical&nbsp;upper-classes who think themselves immune from morality, the rule of law or personal responsibility (ahem, cough, SOROS, PALO ALTO, AND ENTIRE POLITICAL CLASS, cough, cough).</p>
+<figure id="attachment_2542" align="alignnone" width="618"><a href="https://www.barnhardt.biz/wp-content/uploads/2015/07/Reuters-Barack-Obama-Pope-Francis-talking-Vatican-photog-Kevin-Lamarque.jpg"><img src="https://www.barnhardt.biz/wp-content/uploads/2015/07/Reuters-Barack-Obama-Pope-Francis-talking-Vatican-photog-Kevin-Lamarque.jpg" class="size-full wp-image-2542" alt="" width="618" height="340"></a> &#8220;Are you a Traveling Man?&#8221; &#8220;Ah, hello Hiram&#8230;.&#8221;</figure>
+<p>So, there you go. Economics as explained by our Blessed Lord in five little words while He was hanging out at His friendsâ€™ house having supper the weekend before He suffered and died to redeem mankind. And proof that Judas Iscariot was the intellectual father of Marxism and of scumbag thieving politicians in general.</p>
+<p>I hope this helps.</p>
+<p>St. Joseph, loving patron of the Universal Church, pray for us!</p>
+<div id="attachment_8135" style="width: 508px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-8135" src="https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0494.jpg" class="size-full wp-image-8135" width="498" height="600" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0494.jpg 498w, https://www.barnhardt.biz/wp-content/uploads/2019/05/img_0494-249x300.jpg 249w" sizes="(max-width: 498px) 100vw, 498px" /><p id="caption-attachment-8135" class="wp-caption-text">St. Joseph and the Christ Child, Guido Reni, ARSH 1640, Museum of Fine Arts, Houston</p></div>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/05/01/jesus-christ-economist-with-handy-visual-aids-and-a-video-appendix/" title="5:35 am" rel="bookmark"><time class="entry-date" datetime="2019-05-01T05:35:23-06:00">May 1, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8131" class="post-8131 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/30/guurl-wheredju-git-dem-nails-did-dey-on-fleek/" rel="bookmark">Guurl, whereâ€™dju git dem nails did? Dey ON FLEEK!</a>
+</h1>
+</header>
+<div class="entry-content">
+<p>This is Cardinal Daniel DiNardo, current head of the U.S. Bishops Conference.</p>
+<p>That is, I believe, what is called a &#8220;French Manicure&#8221;.</p>
+<p>Absolutely Sickening.</p>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0468.jpg" class="size-full wp-image-8130" width="578" height="440" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0468.jpg 578w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0468-300x228.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" /></p>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469.jpg" class="size-full wp-image-8133" width="1026" height="708" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469.jpg 1026w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469-300x207.jpg 300w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469-768x530.jpg 768w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469-1024x707.jpg 1024w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0469-624x431.jpg 624w" sizes="(max-width: 1026px) 100vw, 1026px" /></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/30/guurl-wheredju-git-dem-nails-did-dey-on-fleek/" title="12:39 am" rel="bookmark"><time class="entry-date" datetime="2019-04-30T00:39:04-06:00">April 30, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8124" class="post-8124 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/29/yes-maam-a-very-big-day-the-feast-of-st-catherine-of-siena/" rel="bookmark">â€YES, MAâ€™AM!â€ A Very Big Day: The Feast of St. Catherine of Siena</a>
+</h1>
+</header>
+<div class="entry-content">
+<p>Not only is it her Feast (30 April), but it is the SIXTH anniversary now of my official vacating of my old real estate holdings and officially entering into my status &#8220;in the proverbial van down by the river&#8221;. Folks, I gotta tell you, it was probably the happiest day of my life in the moment. Even though there were signs of problems from the very beginning (I had to sleep on a set of stairs for two hours when I arrived at the &#8220;new van down by the river&#8221; because the guy who was supposed to meet me was asleep inside and wouldn&#8217;t answer the doorbell &#8211; and it was an intentional snub), I didn&#8217;t care. Just to be detached was sublime.</p>
+<p>Here are just a few of the illiterate laywoman Catherine&#8217;s words to remind us why she is a Doctor of the Church, defender of the Papacy, and our dear patroness:</p>
+<blockquote><p>&#8220;Be who God meant you to be and you will set the world on fire.&#8221;</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>&#8220;Start being brave about everything. Drive out darkness and spread light. Donâ€™t look at your weaknesses. Realize instead that in Christ crucified you can do everything.&#8221;</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>&#8220;You are rewarded not according to your work or your time but according to the measure of your love.&#8221;</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>He will provide the way and the means, such as you could never have imagined. Leave it all to Him, let go of yourself, lose yourself on the Cross, and you will find yourself entirely.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Preach the Truth as if you had a million voices. It is silence that kills the world.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>A soul cannot live without loving. It must have something to love, for it was created to love.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>It is only through shadows that one comes to know the light.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote>
+<h2>To the servant of God&#8230; every place is the right place, and every time is the right time.</h2>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Nothing great is ever achieved without much enduring.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>We are of such value to God that He came to live among us&#8230; and to guide us home. He will go to any length to seek us, even to being lifted high upon the cross to draw us back to Himself. We can only respond by loving God for His love.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>We&#8217;ve had enough of exhortations to be silent! Cry out with a hundred thousand tongues. I see that the world is rotten because of silence.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Strange that so much suffering is caused because of the misunderstandings of God&#8217;s true nature. God&#8217;s heart is more gentle than the Virgin&#8217;s first kiss upon the Christ. And God&#8217;s forgiveness to all, to any thought or act, is more certain than our own being.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>You must believe in truth that whatever God gives or permits is for your salvation.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Do not be satisfied with little things, because God wants great things!</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>And of what should we be afraid? Our captain on this battlefield is Christ Jesus. We have discovered what we have to do. Christ has bound our enemies for us and weakened them that they cannot overcome us unless we so choose to let them. So we must fight courageously and mark ourselves with the sign of the most Holy Cross.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Enrich your soul in the great goodness of God: The Father is your table, the Son is your food, and the Holy Spirit waits on you and then makes His dwelling in you.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>Proclaim the truth and do not be silent through fear.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote><p>The devil fears hearts on fire with love of God.</p>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<blockquote>
+<h2>Of course you are unworthy. But when do you hope to be worthy? You will be no more worthy at the end than at the beginning. God alone is worthy of Himself, He alone can make us worthy of Him.</h2>
+</blockquote>
+<p>Yes, Ma&#8217;am.</p>
+<p>Dear St. Catherine of Siena, mystical bride of Christ, and our most admirable, exemplary and charitable patroness, pray for us.</p>
+<p>Love, on your Feast,</p>
+<p>Ann (quella che anche non Ã©)</p>
+<p>P.S. Please pray for my benefactors, supporters, relations, friends, enemies, and SuperNerd and family.</p>
+<div id="attachment_8123" style="width: 473px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-8123" src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0466.jpg" class="size-full wp-image-8123" width="463" height="600" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0466.jpg 463w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0466-232x300.jpg 232w" sizes="(max-width: 463px) 100vw, 463px" /><p id="caption-attachment-8123" class="wp-caption-text">The Mystical Marriage of St. Catherine to Christ Jesus, at the behest and witness of the Blessed Virgin Mary. Clemente de Torres. ARSH 1700</p></div>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/29/yes-maam-a-very-big-day-the-feast-of-st-catherine-of-siena/" title="4:47 pm" rel="bookmark"><time class="entry-date" datetime="2019-04-29T16:47:37-06:00">April 29, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8121" class="post-8121 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/29/fully-automatic-evil-black-canon-shoots-eight-per-second/" rel="bookmark">Fully automatic evil black canon. Shoots eight per second!!!!</a>
+</h1>
+</header>
+<div class="entry-content">
+<p>No civilian has need nor should EVER have access to this!!</p>
+<p>The Second Amendment has NOTHING to do with this!!! ðŸ˜‰</p>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0464.jpg" class="size-full wp-image-8120" width="640" height="427" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0464.jpg 640w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0464-300x200.jpg 300w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0464-624x416.jpg 624w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/29/fully-automatic-evil-black-canon-shoots-eight-per-second/" title="1:24 pm" rel="bookmark"><time class="entry-date" datetime="2019-04-29T13:24:47-06:00">April 29, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8118" class="post-8118 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/29/active-shooter-dropped-his-gun-faster-than-a-frenchman-when-manfully-confronted/" rel="bookmark">Active shooter dropped his gun faster than a Frenchman when manfully confronted&#8230;</a>
+</h1>
+</header>
+<div class="entry-content">
+<blockquote></blockquote>
+<blockquote><p><strong><a href="https://dailycaller.com/2019/04/28/combat-vet-stopped-san-diego-synagogue-shooter/" target="_blank" rel="noopener noreferrer">The man who fired a semi-automatic weapon inside the Chabad&nbsp;of Poway synagogue in San Diego on Saturday</a></strong> froze, dropped his gun and sprinted to his car when he saw Oscar Stewart come barreling toward him, yelling so loud the priest at a neighboring church could hear.</p></blockquote>
+<blockquote><p>â€œGet down!â€ Stewart yelled, according to his wife and others who were at the scene. â€œYou m**********r! Iâ€™m going to kill you!â€</p></blockquote>
+<blockquote><p>Others who were there later told him it sounded like four or five people were shouting. He thinks maybe an angel was standing behind him and speaking through his voice. When the shooter ran, he immediately gave chase.</p></blockquote>
+<blockquote><p>Stewart, 51, told The Daily Caller on Sunday he doesnâ€™t remember any conscious thought from the moment he heard the gun shots until it was all over â€” he just acted on instinct to stop the shooter and prevent him from leaving so he couldnâ€™t hurt more people somewhere else. The Iraq combat veteran said his military training kicked in.</p></blockquote>
+<blockquote><p>â€œI knew I had to be within five feet of this guy so his rifle couldnâ€™t get to me,â€ Stewart said. â€œSo I ran immediately toward him, and I yelled as loud as I could. And he was scared. I scared the hell out of him.â€</p></blockquote>
+<blockquote><p><a href="https://dailycaller.com/2019/04/28/combat-vet-stopped-san-diego-synagogue-shooter/" target="_blank" rel="noopener noreferrer">Read the whole story.</a></p></blockquote>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/29/active-shooter-dropped-his-gun-faster-than-a-frenchman-when-manfully-confronted/" title="9:33 am" rel="bookmark"><time class="entry-date" datetime="2019-04-29T09:33:12-06:00">April 29, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8111" class="post-8111 post type-post status-publish format-standard hentry category-barnhardt-podcast">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/27/barnhardt-podcast-081-sun-tzu-shrieking-harpies-and-uptalking-soyboys/" rel="bookmark">Barnhardt Podcast #081: Sun Tzu, Shrieking Harpies, and Uptalking Soyboys</a>
+</h1>
+</header>
+<div class="entry-content">
+<p><iframe title="Barnhardt Podcast #081: Sun Tzu, Shrieking Harpies, and Uptalking Soyboys" src="https://www.podbean.com/media/player/y7nmp-af5c23?from=yiiadmin&#038;download=1&#038;version=1&#038;skin=2&#038;btn-skin=101&#038;auto=0&#038;share=1&#038;fonts=Helvetica&#038;download=1&#038;rtl=0&#038;pbad=1" style="border: none;" scrolling="no" data-name="pb-iframe-player" width="100%" height="122"></iframe></p>
+<p><b>[<a href="https://barnhardtpodcast.podbean.com/mf/play/9zzgj6/Barnhardt-Podcast-081-2019-04-26.mp3" target="_blank" rel="noopener noreferrer">Direct link to the MP3 file</a>]</b></p>
+<p>In this episode?, we discuss Sun Tzu?, and whether the advice the ancient Chinese philosopher of war?, can be applied to spiritual combat? We also talk about Notre Dame?, and the lineup of world-class perverts?, and anti-Catholic establishments?, who are pledging over a billion dollars to rebuild the Cathedral?, possibly even with a glass roof. And some people did something in Sri Lanka and Creepy Uncle Joe is back&#8230; and we also answer a couple listener questions (without up-talking!).</p>
+<p><b>Links, reading, and YouTube:</b></p>
+<ul>
+<li><a href="https://www.thestar.com/vancouver/2019/04/23/unbearable-and-excruciating-women-podcasters-face-discrimination-for-their-opinions-and-their-voices.html" target="_target" rel="noopener noreferrer">Shrieking Harpies of the podcasting world: unite and scream!</a></li>
+<li><a href="https://www.amazon.com/Right-Stuff-Wolfe-17-Oct-2005-Paperback/dp/B011T8748M/" target="_target" rel="noopener noreferrer">&#8220;The Right Stuff&#8221; by Tom Wolfe (explanation of why all airline pilots sound like Chuck Yeager)</a></li>
+<li><a href="https://www.nytimes.com/2019/04/25/world/asia/isis-sri-lanka.html" target="_target" rel="noopener noreferrer">ISIS in&#8230; Sri Lanka?</a></li>
+<li><a href="https://thewandererpress.com/catholic/news/featured-today/sri-lankas-cardinal-ranjith-would-have-canceled-easter-mass-if-bomb-warnings-had-been-passed-on/" target="_target" rel="noopener noreferrer">Sri Lanka&#8217;s Cardinal Ranjith Would Have Canceled Easter Mass If Bomb Warnings Had Been Passed On</a></li>
+<li><a href="https://www.youtube.com/watch?v=rkQoqVoBBCk&#038;list=PLBwGAd0IGwRiNei15Q2wNbOwTtAjLjWDt" target="_target" rel="noopener noreferrer">Islamic Sexuality: A Survey of Evil</a></li>
+<li><a href="https://everydaypowerblog.com/sun-tzu-quotes/" target="_target" rel="noopener noreferrer">50 Sun Tzu Quotes</a></li>
+<li><a href="https://remnantnewspaper.com/web/index.php/fetzen-fliegen/item/2367-father-longenecker-s-fundamental-problem" target="_target" rel="noopener noreferrer">Father Longenecker&#8217;s Fundamental Problem</a></li>
+<li><a href="https://thehill.com/opinion/white-house/436816-joe-bidens-2020-ukrainian-nightmare-a-closed-probe-is-revived" target="_target" rel="noopener noreferrer">Joe Biden&#8217;s 2020 Ukrainian nightmare: A closed probe is revived</a></li>
+<li><a href="https://www.barnhardt.biz/2014/05/03/the-one-about-psychopaths-who-mutilate-their-faces/" target="_target" rel="noopener noreferrer">Ann&#8217;s essay (indirectly) about Joe Biden&#8217;s plastic surgery</a></li>
+<li><a href="https://www.washingtonexaminer.com/news/botox-hair-plugs-and-veneers-biden-could-escape-the-cosmetic-surgery-scrutiny-hillary-clinton-endured" target="_target" rel="noopener noreferrer">Botox, hair plugs, and veneers: Biden could escape the cosmetic surgery scrutiny Hillary Clinton endured</a></li>
+<p>
+</ul>
+<p><b>Feedback:</b> please send your questions, comments, and suggestions to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="22524d4641435156624043504c4a435046560c404b58">[email&#160;protected]</a></p>
+<p>The Barnhardt Podcast is produced by SuperNerd Media; if you found this episode to be of value you can share some value to back to SuperNerd <a href="http://SuperNerdMedia.com/donate" target="_blank" rel="noopener noreferrer">at the SuperNerd Media website</a>. You can also follow SuperNerd Media on <a href="https://twitter.com/SuperNerdMedia" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
+<div id="attachment_6178" style="width: 160px" class="wp-caption alignnone"><a href="https://www.continuetogive.com/AnnBarnhardtDonationPage"><img aria-describedby="caption-attachment-6178" class="wp-image-6178 size-thumbnail" src="https://www.barnhardt.biz/wp-content/uploads/2018/06/Burger-150x150.jpg" alt="Do the BigMac Maneuver!" width="150" height="150" /></a><p id="caption-attachment-6178" class="wp-caption-text">Click here for The Stale Big Mac Maneuver</p></div>
+<p><a href="https://itunes.apple.com/us/podcast/barnhardt-podcast-barnhardt/id1230686527" target="_blank" rel="noopener noreferrer"><img src="http://www.realmenrealstyle.com/wp-content/uploads/2016/03/itunes-button.png" width="125" border="0" /></a><a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Iahjg6e7lckprsijnnyvjpr4wzu?t%3DBarnhardt_Podcast_%25E2%2580%2593_Barnhardt%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" target="_blank" rel="nofollow noopener noreferrer"><img src="https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png" alt="Listen on Google Play Music" width="125px" /></a><a href="https://feeds.feedburner.com/BarnhardtPodcast" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-4389" src="https://www.barnhardt.biz/wp-content/uploads/2017/04/plain-rss-button.png" alt="" width="125" height="46" border="0" /></a></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/barnhardt-podcast/" rel="category tag">Barnhardt Podcast</a> on <a href="https://www.barnhardt.biz/2019/04/27/barnhardt-podcast-081-sun-tzu-shrieking-harpies-and-uptalking-soyboys/" title="1:02 pm" rel="bookmark"><time class="entry-date" datetime="2019-04-27T13:02:30-06:00">April 27, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/admin/" title="View all posts by SuperNerd" rel="author">SuperNerd</a></span></span>. </footer>
+</article>
+<article id="post-8109" class="post-8109 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/27/perspective-to-thee-do-we-send-up-our-sighs-mourning-and-weeping-in-this-best-western-in-fort-worth/" rel="bookmark">Perspective: To Thee Do We Send Up Our Sighs, Mourning and Weeping in this&#8230; Best Western in Fort Worth.</a>
+</h1>
+</header>
+<div class="entry-content">
+<h2>In light of Heaven, the worst suffering on earth will be seen to be no more serious than one night in an inconvenient hotel.</h2>
+<h2>-St. Theresa of Avila</h2>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457.jpg" class="size-full wp-image-8108" width="1200" height="630" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457.jpg 1200w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457-300x158.jpg 300w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457-768x403.jpg 768w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457-1024x538.jpg 1024w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0457-624x328.jpg 624w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/27/perspective-to-thee-do-we-send-up-our-sighs-mourning-and-weeping-in-this-best-western-in-fort-worth/" title="11:27 am" rel="bookmark"><time class="entry-date" datetime="2019-04-27T11:27:44-06:00">April 27, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-3223" class="post-3223 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/25/happy-easter-the-profound-significance-of-jesus-in-a-spiffy-hat/" rel="bookmark">Happy Easter! The Profound Significance of Jesus In A Spiffy Hat</a>
+</h1>
+</header>
+<div class="entry-content">
+<p><a href="https://www.barnhardt.biz/wp-content/uploads/2016/04/lavinia-fontana-jesus-appears-to-mary-magdalene.jpg" rel="attachment wp-att-3224"><img src="https://www.barnhardt.biz/wp-content/uploads/2016/04/lavinia-fontana-jesus-appears-to-mary-magdalene.jpg" class="size-full wp-image-3224" alt="Noli Me Tangere, Lavinia Fontana, ARSH 1581" width="645" height="784"></a> Noli Me Tangere, Lavinia Fontana, ARSH 1581</p>
+<p>The beautiful painting above is of Mary Magdalene seeing Our Resurrected Lord in the garden close to the Empty Tomb and initially mistaking Him for the gardener. &nbsp;In art Our Lord is commonly depicted in this specific scene as a gardener by his spiffy gardener&#8217;s hat &#8211; and only sometimes carrying a gardening implement, as in this image. &nbsp;As a great fan, connoisseur and wearer of hats, I am always tickled to see Our Lord behatted.</p>
+<p>But there is massive meaning in all of this, and it goes back to the Garden of Eden, and teaches us about the Eucharist, and specifically about the importance of worthy and unworthy reception of the Eucharist. &nbsp;This is especially germane as one of the hallmarks of the Bergoglian antipapacy is the pogrom of sacrilegious desecration of Our Lord and Savior Jesus Christ in the Holy Eucharist.</p>
+<p>Anyone who objects to the enthusiastic desecration of the Eucharist will, of course, be denounced as a &#8220;fundamentalist&#8221; or whatever is today&#8217;s entry in the Antipope Bergoglio book of insults.</p>
+<p>Our Lord appeared as a Gardener to Mary Magdalene because He is, in fact, The Gardener of Eden (Genesis 2: 8-9) and would walk in The Garden (Genesis 3: 8).</p>
+<p>Interestingly, we see from Genesis that it was His intention to commune with mankind AS FOOD from the very beginning, whether man fell to original sin or not. &nbsp;The Tree of Life wasn&#8217;t a mere foreshadowing of the Eucharist, it was in fact a species of the Real Substantial Presence of God, in the form of food, to be eaten by man in order to give man eternal life. &nbsp;Again, the Fruit of the Tree of Life was an actual species of the Real Presence, not a symbol. &nbsp;So Christ was not only The Gardener of Eden, He Himself was also the &#8220;Crop&#8221;.</p>
+<p>Now think about this &#8211; when Adam and Eve fell, what did God do? He drove them out and even sent an angel with a flaming, rotating sword to specifically physically block them&nbsp;so that they could not COMMIT THE SIN OF SACRILEGE OF EATING OF THE FRUIT OF THE TREE OF LIFE, THAT IS THE PHYSICAL SUBSTANCE OF GOD HIMSELF, AND THUS MAKE THEIR SITUATION EVEN WORSE. &nbsp;It wasn&#8217;t enough to merely tell them that they couldn&#8217;t eat of the Tree of Life (a species of the Real Presence) because Our Lord knew that satan would tempt them to eat it anyway, and they would, because they were now guilty of the sin of pride.</p>
+<p><strong>Our Lord drove Adam and Eve out of The Garden and posted an angelic sentry BECAUSE HE LOVED THEM. Our Loving God EXCOMMUNICATED Adam and Eve in order to protect them from themselves, knowing that they would do even further damage to themselves by eating of His Physical Substance unworthily.</strong></p>
+<p>Only after Our Lord had incarnated, and True God and True Man had suffered and died for the sins of the world, could mankind once again be able to eat of the Fruit of the Tree of Life. &nbsp;The Cross is The Tree. &nbsp;Jesus Christ hanging from it is The Fruit of The Tree of Life. The Eucharist is the Flesh and Blood of Jesus Christ, True Food and True Drink. Christ&#8217;s Passion, Death and Resurrection re-established The Garden of Eden, ended the protective banishment, and lifted the excommunication of mankind.</p>
+<p>This is why Our Lord said to the Apostles in the Upper Room on Holy Thursday, &#8220;With desire I have desired to eat this pasch with you&#8230;&#8221;</p>
+<p>When God says, &#8220;I&#8217;ve REALLY been looking forward to this&#8230;&#8221;, something incomprehensibly good and profoundly important is about to happen.</p>
+<p>And this is why, in these days, growing ever darker, that satan, through his infiltators in The Church &#8211; some of them consciously willing, some of them merely stupid, are pushing for what the serpent could NOT effect in The Garden: the sacrilegious desecration of the Fruit of the Tree of Life.</p>
+<p>It is true. &nbsp;There are no angels with flaming swords to prevent unrepentant sinners from receiving the Eucharist. &nbsp;Would that there were. &nbsp;I would be very happy if I were blocked from receiving the Eucharist by an angel, because then I would absolutely know that I was not in a state of grace, and could take steps to correct that in the confessional. It is always a nagging concern in the back of one&#8217;s mind every time one receives the Eucharist. &nbsp;Or, at least it should be.</p>
+<p>But, considering the steps that God took&nbsp;in The Garden of Eden, one should think very long and very hard about the gravity of unworthy reception, and of the truly satanic malignancy of this final push to get those in openly unrepentant mortal sin to desecrate the Eucharist, and for the priests, who have been the last line of defense, standing in place of the angel, instead to be the willing facilitators and encouragers of sacrilegious desecration of Our Blessed Lord in the Eucharist.</p>
+<p>And this is why Our Risen Lord appeared to Mary Magdalene as a Gardener, as we can tell by the spiffy hat.</p>
+<p>I hope this helps.</p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/25/happy-easter-the-profound-significance-of-jesus-in-a-spiffy-hat/" title="5:10 am" rel="bookmark"><time class="entry-date" datetime="2019-04-25T05:10:01-06:00">April 25, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<article id="post-8102" class="post-8102 post type-post status-publish format-standard hentry category-uncategorized">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.barnhardt.biz/2019/04/24/you-did-it-through-ignorance/" rel="bookmark">â€œ&#8230;you did it through ignorance&#8230;â€</a>
+</h1>
+</header>
+<div class="entry-content">
+<p>I was especially struck by today&#8217;s epistle at Mass. This is St. Peter himself speaking to the very people who had clamored and agitated for Christ&#8217;s death. But listen to the calm, patient, charitable terms that Peter, quickened and vivified by the Holy Ghost, frames it in to the &#8220;men of Israel, and you who fear God&#8221;:</p>
+<blockquote><p>Lesson from the Acts of Apostles</p>
+</blockquote>
+<blockquote><p>Acts 3:13-15; 3:17-19</p>
+</blockquote>
+<blockquote><p>In that time, Peter opened his mouth and said: Men of Israel, and you who fear God, listen. The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers, hath glorified his Son Jesus, whom you indeed delivered up and denied before the face of Pilate, when he judged he should be released. But you denied the Holy One and the Just, and desired a murderer to be granted unto you. But the author of life you killed, whom God hath raised from the dead, of which we are witnesses. <strong>And now, brethren, I know that you did it through ignorance, as did also your rulers.</strong> But those things which God before had shewed by the mouth of all the prophets, that his Christ should suffer, he hath so fulfilled. Be penitent, therefore, and be converted, that your sins may be blotted out.</p>
+</blockquote>
+<p>If St. Peter could recognize the error and ignorance of the very people who called out for Christ&#8217;s Blood, and exhorted them in charity to conversion, then we must recognize the same dynamic at work today with regards to the Bergoglian Antipapacy, empathize, but exhort and encourage through our witness.</p>
+<p>It&#8217;s a remarkable passage, giving one plenty to think about. Call out the error, empathize with the ones in error, help correct the error through &#8220;opening the mouth&#8221;, that is explaining and witnessing.</p>
+<p><img src="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456.jpg" class="size-full wp-image-8101" width="1246" height="800" srcset="https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456.jpg 1246w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456-300x193.jpg 300w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456-768x493.jpg 768w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456-1024x657.jpg 1024w, https://www.barnhardt.biz/wp-content/uploads/2019/04/img_0456-624x401.jpg 624w" sizes="(max-width: 1246px) 100vw, 1246px" /></p>
+</div>
+<footer class="entry-meta">
+This entry was posted in <a href="https://www.barnhardt.biz/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="https://www.barnhardt.biz/2019/04/24/you-did-it-through-ignorance/" title="2:58 pm" rel="bookmark"><time class="entry-date" datetime="2019-04-24T14:58:05-06:00">April 24, ARSH 2019</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://www.barnhardt.biz/author/annb/" title="View all posts by Ann Barnhardt" rel="author">Ann Barnhardt</a></span></span>. </footer>
+</article>
+<nav id="nav-below" class="navigation" role="navigation">
+<h3 class="assistive-text">Post navigation</h3>
+<div class="nav-previous"><a href="https://www.barnhardt.biz/page/2/"><span class="meta-nav">&larr;</span> Older posts</a></div>
+<div class="nav-next"></div>
+</nav>
+</div>
+</div>
+<div id="secondary" class="widget-area" role="complementary">
+<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.barnhardt.biz/">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form></aside><aside id="text-2" class="widget widget_text"> <div class="textwidget"><a target="_blank" href="https://www.continuetogive.com/AnnBarnhardtDonationPage"><img alt="Donate to Ann Barnhardt" src="/DonateToAnn.png" border="0" /></a></div>
+</aside><aside id="text-3" class="widget widget_text"> <div class="textwidget"><div style="padding: 5px; border: 5px solid #f00; text-align: center; background-color: #eee;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><br />
+<input name="hosted_button_id" type="hidden" value="AZPENSNGZPLYS" /></p>
+<h2>Diabolical Narcissism DVD</h2>
+<p><input alt="Buy the Diabolical Narcissism DVD" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /><br />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></p>
+<div><b><i>(US Shipping Only &#8212; email <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="adddc2c9ceccded9edcfccdfc3c5ccdfc9d983cfc4d7">[email&#160;protected]</a> to arrange international shipping)</i></b></div>
+</form>
+</div>
+</div>
+</aside> <aside id="recent-posts-2" class="widget widget_recent_entries"> <h3 class="widget-title">Recent Posts</h3> <ul>
+<li>
+<a href="https://www.barnhardt.biz/2019/05/02/let-that-sink-in/">Let that sink in&#8230;</a>
+</li>
+<li>
+<a href="https://www.barnhardt.biz/2019/05/01/jesus-christ-economist-with-handy-visual-aids-and-a-video-appendix/">Jesus Christ, Economist</a>
+</li>
+<li>
+<a href="https://www.barnhardt.biz/2019/04/30/guurl-wheredju-git-dem-nails-did-dey-on-fleek/">Guurl, whereâ€™dju git dem nails did? Dey ON FLEEK!</a>
+</li>
+<li>
+<a href="https://www.barnhardt.biz/2019/04/29/yes-maam-a-very-big-day-the-feast-of-st-catherine-of-siena/">â€YES, MAâ€™AM!â€ A Very Big Day: The Feast of St. Catherine of Siena</a>
+</li>
+<li>
+<a href="https://www.barnhardt.biz/2019/04/29/fully-automatic-evil-black-canon-shoots-eight-per-second/">Fully automatic evil black canon. Shoots eight per second!!!!</a>
+</li>
+</ul>
+</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3> <ul>
+<li><a href='https://www.barnhardt.biz/2019/05/'>May 2019</a></li>
+<li><a href='https://www.barnhardt.biz/2019/04/'>April 2019</a></li>
+<li><a href='https://www.barnhardt.biz/2019/03/'>March 2019</a></li>
+<li><a href='https://www.barnhardt.biz/2019/02/'>February 2019</a></li>
+<li><a href='https://www.barnhardt.biz/2019/01/'>January 2019</a></li>
+<li><a href='https://www.barnhardt.biz/2018/12/'>December 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/11/'>November 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/10/'>October 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/09/'>September 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/08/'>August 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/07/'>July 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/06/'>June 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/05/'>May 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/04/'>April 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/03/'>March 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/02/'>February 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2018/01/'>January 2018</a></li>
+<li><a href='https://www.barnhardt.biz/2017/12/'>December 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/11/'>November 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/10/'>October 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/09/'>September 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/08/'>August 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/07/'>July 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/06/'>June 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/05/'>May 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/04/'>April 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/03/'>March 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/02/'>February 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2017/01/'>January 2017</a></li>
+<li><a href='https://www.barnhardt.biz/2016/12/'>December 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/11/'>November 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/10/'>October 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/09/'>September 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/08/'>August 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/07/'>July 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/06/'>June 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/05/'>May 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/04/'>April 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/03/'>March 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/02/'>February 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2016/01/'>January 2016</a></li>
+<li><a href='https://www.barnhardt.biz/2015/12/'>December 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/11/'>November 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/10/'>October 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/09/'>September 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/08/'>August 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/07/'>July 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/06/'>June 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/05/'>May 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/04/'>April 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/03/'>March 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/02/'>February 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2015/01/'>January 2015</a></li>
+<li><a href='https://www.barnhardt.biz/2014/12/'>December 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/11/'>November 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/10/'>October 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/09/'>September 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/08/'>August 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/07/'>July 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/06/'>June 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/05/'>May 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/04/'>April 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/03/'>March 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/02/'>February 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2014/01/'>January 2014</a></li>
+<li><a href='https://www.barnhardt.biz/2013/12/'>December 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/11/'>November 2013</a></li>
+ <li><a href='https://www.barnhardt.biz/2013/10/'>October 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/09/'>September 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/08/'>August 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/07/'>July 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/06/'>June 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/05/'>May 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/04/'>April 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/03/'>March 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/02/'>February 2013</a></li>
+<li><a href='https://www.barnhardt.biz/2013/01/'>January 2013</a></li>
+</ul>
+</aside><aside id="text-5" class="widget widget_text"> <div class="textwidget"><p><br />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-43227631-1"></script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-43227631-1');
+</script></p>
+</div>
+</aside> </div>
+</div>
+<footer id="colophon" role="contentinfo">
+<div class="site-info">
+<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+</div>
+</footer>
+</div>
+<script type='text/javascript' src='https://www.barnhardt.biz/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='https://www.barnhardt.biz/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+</body>
+</html>

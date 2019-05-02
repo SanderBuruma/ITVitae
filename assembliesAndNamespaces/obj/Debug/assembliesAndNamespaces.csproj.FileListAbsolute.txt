@@ -1,0 +1,7 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\bin\Debug\assembliesAndNamespaces.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\bin\Debug\assembliesAndNamespaces.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\bin\Debug\assembliesAndNamespaces.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\obj\Debug\assembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\obj\Debug\assembliesAndNamespaces.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\obj\Debug\assembliesAndNamespaces.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\assembliesAndNamespaces\obj\Debug\assembliesAndNamespaces.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\bin\Debug\method.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\bin\Debug\method.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\bin\Debug\method.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\obj\Debug\method.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\obj\Debug\method.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\method\method\obj\Debug\method.pdb

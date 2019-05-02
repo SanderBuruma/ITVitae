@@ -1,0 +1,7 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\bin\Debug\heloworldsharp.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\bin\Debug\heloworldsharp.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\bin\Debug\heloworldsharp.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\obj\Debug\heloworldsharp.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\obj\Debug\heloworldsharp.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\obj\Debug\heloworldsharp.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworldsharp\heloworldsharp\obj\Debug\heloworldsharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\bin\Debug\netcoreapp2.1\helloUser.deps.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\bin\Debug\netcoreapp2.1\helloUser.runtimeconfig.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\bin\Debug\netcoreapp2.1\helloUser.runtimeconfig.dev.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\bin\Debug\netcoreapp2.1\helloUser.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\bin\Debug\netcoreapp2.1\helloUser.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.AssemblyInfoInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.AssemblyInfo.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloUser\helloUser\obj\Debug\netcoreapp2.1\helloUser.pdb

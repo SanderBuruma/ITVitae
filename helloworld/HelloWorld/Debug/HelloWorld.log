@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworld\HelloWorld\HelloWorld.cpp(10): warning C4101: 'b': unreferenced local variable
+C:\Users\Cubit32\Desktop\coding\ITVitae\helloworld\HelloWorld\HelloWorld.cpp(10): warning C4101: 'c': unreferenced local variable
+  HelloWorld.vcxproj -> C:\Users\Cubit32\Desktop\coding\ITVitae\helloworld\HelloWorld\Debug\HelloWorld.exe

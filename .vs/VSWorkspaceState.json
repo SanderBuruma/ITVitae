@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\helloUser",
+    "\\helloUser\\helloUser",
+    "\\sumMultiplesOf3or5",
+    "\\sumMultiplesOf3or5\\sumMultiplesOf3and5"
   ],
-  "SelectedNode": "\\.~lock.C# VPP-Zelfleerhulpmiddel v2.1.docx#",
+  "SelectedNode": "\\helloUser\\helloUser\\helloUser.csproj",
   "PreviewInSolutionExplorer": false
 }

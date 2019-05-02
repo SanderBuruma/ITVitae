@@ -1,0 +1,7 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\bin\Debug\datesAndTimes.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\bin\Debug\datesAndTimes.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\bin\Debug\datesAndTimes.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\obj\Debug\datesAndTimes.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\obj\Debug\datesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\obj\Debug\datesAndTimes.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\datesAndTimes\obj\Debug\datesAndTimes.pdb

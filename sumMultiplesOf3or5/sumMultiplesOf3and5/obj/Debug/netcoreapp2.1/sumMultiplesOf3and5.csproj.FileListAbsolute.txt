@@ -1,0 +1,13 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\bin\Debug\netcoreapp2.1\sumMultiplesOf3or5.deps.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\bin\Debug\netcoreapp2.1\sumMultiplesOf3or5.runtimeconfig.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\bin\Debug\netcoreapp2.1\sumMultiplesOf3or5.runtimeconfig.dev.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\bin\Debug\netcoreapp2.1\sumMultiplesOf3or5.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\bin\Debug\netcoreapp2.1\sumMultiplesOf3or5.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3and5.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3and5.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3and5.AssemblyInfoInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3and5.AssemblyInfo.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3or5.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3and5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3or5.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3or5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3or5.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\sumMultiplesOf3or5\sumMultiplesOf3and5\obj\Debug\netcoreapp2.1\sumMultiplesOf3or5.pdb

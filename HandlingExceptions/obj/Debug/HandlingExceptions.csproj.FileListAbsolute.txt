@@ -1,0 +1,6 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

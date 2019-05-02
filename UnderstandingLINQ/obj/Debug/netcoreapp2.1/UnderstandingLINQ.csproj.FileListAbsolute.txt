@@ -1,0 +1,11 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\bin\Debug\netcoreapp2.1\UnderstandingLINQ.deps.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\bin\Debug\netcoreapp2.1\UnderstandingLINQ.runtimeconfig.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\bin\Debug\netcoreapp2.1\UnderstandingLINQ.runtimeconfig.dev.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\bin\Debug\netcoreapp2.1\UnderstandingLINQ.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\bin\Debug\netcoreapp2.1\UnderstandingLINQ.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.AssemblyInfoInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.AssemblyInfo.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\UnderstandingLINQ\obj\Debug\netcoreapp2.1\UnderstandingLINQ.pdb

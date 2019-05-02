@@ -1,0 +1,6 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\bin\Debug\TimerExample.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\bin\Debug\TimerExample.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\bin\Debug\TimerExample.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\obj\Debug\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\obj\Debug\TimerExample.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\TimerExample\obj\Debug\TimerExample.pdb

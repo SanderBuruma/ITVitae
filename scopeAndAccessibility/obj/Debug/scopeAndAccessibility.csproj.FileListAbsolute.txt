@@ -1,0 +1,6 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\bin\Debug\scopeAndAccessibility.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\bin\Debug\scopeAndAccessibility.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\bin\Debug\scopeAndAccessibility.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\obj\Debug\scopeAndAccessibility.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\obj\Debug\scopeAndAccessibility.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\scopeAndAccessibility\obj\Debug\scopeAndAccessibility.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\bin\Debug\netcoreapp2.1\EvenFibonacciNumbers.deps.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\bin\Debug\netcoreapp2.1\EvenFibonacciNumbers.runtimeconfig.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\bin\Debug\netcoreapp2.1\EvenFibonacciNumbers.runtimeconfig.dev.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\bin\Debug\netcoreapp2.1\EvenFibonacciNumbers.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\bin\Debug\netcoreapp2.1\EvenFibonacciNumbers.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.AssemblyInfo.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\euler project\EvenFibonacciNumbers\obj\Debug\netcoreapp2.1\EvenFibonacciNumbers.pdb

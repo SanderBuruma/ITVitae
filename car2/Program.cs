@@ -10,15 +10,22 @@ namespace cars1
     {
         static void Main(string[] args)
         {
-            Car myCar = new Car();
-            myCar.Make = "Toyota";
-            myCar.Model = "Truck";
-            myCar.Year = 2020;
-            myCar.Color = "Light Grey";
+            Car myCar = new Car("Toyota", "Truck", 2020, "Light Grey");
+            Car otherCar = myCar;
 
-            Console.WriteLine("{0} {1} {2} {3}", myCar.Make, myCar.Model, myCar.Year, myCar.Color);
+            Console.WriteLine("{0} {1} {2} {3}",
+                otherCar.Make,
+                otherCar.Model,
+                otherCar.Year,
+                otherCar.Color);
 
-            Console.WriteLine("{0:C}", myCar.DetermineMarketValue());
+            otherCar.Color = "Red";
+
+            Console.WriteLine("{0} {1} {2} {3}",
+                myCar.Make,
+                myCar.Model,
+                myCar.Year,
+                myCar.Color);
 
             Console.ReadLine();
         }
@@ -37,6 +44,14 @@ namespace cars1
             public string Model { get; set; }
             public int Year { get; set; }
             public string Color { get; set; }
+
+            public Car(string make, string model, int year, string color)
+            {
+                Make = make;
+                Model = model;
+                Year = year;
+                Color = color;
+            }
 
             public decimal DetermineMarketValue()
             {

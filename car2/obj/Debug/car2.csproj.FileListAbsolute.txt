@@ -1,0 +1,7 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\bin\Debug\car2.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\bin\Debug\car2.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\bin\Debug\car2.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\obj\Debug\car2.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\obj\Debug\car2.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\obj\Debug\car2.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\car2\obj\Debug\car2.pdb

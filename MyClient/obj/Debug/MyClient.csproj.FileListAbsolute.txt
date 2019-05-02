@@ -1,0 +1,10 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\bin\Debug\MyClient.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\bin\Debug\MyClient.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\obj\Debug\MyClient.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyClient\obj\Debug\MyClient.pdb

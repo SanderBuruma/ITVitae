@@ -1,0 +1,9 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\bin\Debug\netstandard2.0\MyCodeLibrary.deps.json
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\bin\Debug\netstandard2.0\MyCodeLibrary.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\bin\Debug\netstandard2.0\MyCodeLibrary.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.dll
+C:\Users\Cubit32\Desktop\coding\ITVitae\MyCodeLibrary\obj\Debug\netstandard2.0\MyCodeLibrary.pdb

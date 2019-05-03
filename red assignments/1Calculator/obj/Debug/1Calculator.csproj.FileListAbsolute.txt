@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\bin\Debug\1Calculator.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\bin\Debug\1Calculator.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\bin\Debug\1Calculator.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\_1Calculator.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\1Calculator\obj\Debug\1Calculator.pdb

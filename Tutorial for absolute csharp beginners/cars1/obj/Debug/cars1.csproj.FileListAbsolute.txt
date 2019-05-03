@@ -4,3 +4,9 @@ C:\Users\Cubit32\Desktop\coding\ITVitae\cars1\bin\Debug\cars1.pdb
 C:\Users\Cubit32\Desktop\coding\ITVitae\cars1\obj\Debug\cars1.csproj.CoreCompileInputs.cache
 C:\Users\Cubit32\Desktop\coding\ITVitae\cars1\obj\Debug\cars1.exe
 C:\Users\Cubit32\Desktop\coding\ITVitae\cars1\obj\Debug\cars1.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\bin\Debug\cars1.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\bin\Debug\cars1.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\bin\Debug\cars1.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\obj\Debug\cars1.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\obj\Debug\cars1.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\cars1\obj\Debug\cars1.pdb

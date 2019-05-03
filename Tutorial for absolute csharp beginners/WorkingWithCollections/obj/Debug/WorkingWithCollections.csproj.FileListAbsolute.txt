@@ -5,3 +5,10 @@ C:\Users\Cubit32\Desktop\coding\ITVitae\WorkingWithCollections\obj\Debug\Working
 C:\Users\Cubit32\Desktop\coding\ITVitae\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.CoreCompileInputs.cache
 C:\Users\Cubit32\Desktop\coding\ITVitae\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
 C:\Users\Cubit32\Desktop\coding\ITVitae\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\obj\Debug\WorkingWithCollections.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\Tutorial for absolute csharp beginners\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb

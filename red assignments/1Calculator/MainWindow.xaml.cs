@@ -24,7 +24,8 @@ namespace _1Calculator
         private string Val2 { get; set; }
         private string ValMem { get; set; }
         private bool DecimalsBeingInput { get; set; }
-        private int CalcOperator { get; set; }
+        private Operator CalcOperator { get; set; }
+        private Mode CalcMode { get; set; }
         public MainWindow()
         {
             InitializeComponent();
@@ -32,7 +33,8 @@ namespace _1Calculator
             Val2 = "0";
             ValMem = "0";
             DecimalsBeingInput = false;
-            CalcOperator = (int)Operator.add;
+            CalcOperator = Operator.add;
+            CalcMode = Mode.normal;
         }
 
         private void Button_0_Click(object sender, RoutedEventArgs e)
@@ -86,35 +88,45 @@ namespace _1Calculator
 
         private void Button_MemoryOut_Click(object sender, RoutedEventArgs e)
         {
-            //todo
+            if (CalcMode == Mode.euro)
+            {
+                Val1 = ToEuroString(ValMem);
+            }
+            else
+                Val1 = ValMem;
+            UpdateOutputBox();
         }
 
         private void Button_MemoryIn_Click(object sender, RoutedEventArgs e)
         {
-            //todo
+            ValMem = Val1;
         }
 
         private void Button_Multiply_Click(object sender, RoutedEventArgs e)
         {
-            CalcOperator = (int)Operator.multiply;
+            Calculate();
+            CalcOperator = Operator.multiply;
             MoveVals();
         }
 
         private void Button_Divide_Click(object sender, RoutedEventArgs e)
         {
-            CalcOperator = (int)Operator.divide;
+            Calculate();
+            CalcOperator = Operator.divide;
             MoveVals();
         }
 
         private void Button_Plus_Click(object sender, RoutedEventArgs e)
         {
-            CalcOperator = (int)Operator.add;
+            Calculate();
+            CalcOperator = Operator.add;
             MoveVals();
         }
 
         private void Button_Minus_Click(object sender, RoutedEventArgs e)
         {
-            CalcOperator = (int)Operator.subtract;
+            Calculate();
+            CalcOperator = Operator.subtract;
             MoveVals();
         }
 
@@ -139,7 +151,29 @@ namespace _1Calculator
             Val1 = "0";
             Val2 = "0";
             CalcOperator = (int)Operator.add;
+            CalcMode = Mode.normal;
             UpdateOutputBox();
+        }
+
+        private void Button_Euro_Click(object sender, RoutedEventArgs e)
+        {
+            if (CalcMode == Mode.euro)
+            {
+                CalcMode = Mode.normal;
+                UpdateOutputBox();
+            }
+            else
+            {
+                CalcMode = Mode.euro;
+                Val1 = ToEuroString(Val1);
+                Val2 = ToEuroString(Val2);
+                UpdateOutputBox();
+            }
+        }
+
+        private void Button_Percentage_Click(object sender, RoutedEventArgs e)
+        {
+            //todo
         }
 
         private void AddNumber (string x)
@@ -172,6 +206,18 @@ namespace _1Calculator
                 if (splitVal[0].Substring(0, 1) == "0")
                     splitVal[0] = splitVal[0].Substring(1);
 
+            if (CalcMode == Mode.euro)
+            {
+                while (splitVal[1].Length < 2)
+                {
+                    splitVal[1] += "0";
+                }
+                if (splitVal[1].Length > 2)
+                {
+                    splitVal[1] = splitVal[1].Substring(splitVal[1].Length - 2);
+                }
+            }
+
             if (splitVal[1].Length > 0)
                 Val1 = splitVal[0] + "." + splitVal[1];
             else
@@ -182,7 +228,17 @@ namespace _1Calculator
 
         private void UpdateOutputBox()
         {
-            BoxOutput.Text = Val1;
+            switch(CalcMode)
+            {
+                case Mode.normal:
+                    OutputBox.Text = Val1;
+                    break;
+                case Mode.euro:
+                    OutputBox.Text = "€ " + Val1;
+                    break;
+                default:
+                    break;
+            }
         }
 
         private void MoveVals()
@@ -199,26 +255,40 @@ namespace _1Calculator
             float v2 = float.Parse(Val2);
             switch (CalcOperator)
             {
-                case (int)Operator.add:
+                case Operator.add:
                     v2 += v1;
                     break;
-                case (int)Operator.subtract:
+                case Operator.subtract:
                     v2 -= v1;
                     break;
-                case (int)Operator.multiply:
+                case Operator.multiply:
                     v2 *= v1;
                     break;
-                case (int)Operator.divide:
-                    v2 /= v1;
+                case Operator.divide:
+                    if (v1 != 0)
+                        v2 /= v1;
+                    else
+                        return;
                     break;
                 default:
                     break;
             }
 
-            BoxOutput.Text = v2.ToString();
-            Val1 = v2.ToString();
-            Val2 = "0";
-            CalcOperator = (int)Operator.add;
+            if (CalcMode == Mode.euro)
+            {
+                Val1 = ToEuroString(v2.ToString());
+            }
+            else
+                Val1 = v2.ToString();
+            UpdateOutputBox();
+            //Val2 = "0";
+            //CalcOperator = Operator.add;
+        }
+
+        private string ToEuroString(string s)
+        {
+            float f = float.Parse(s);
+            return string.Format("{0:0.00}", f);
         }
 
         enum Operator
@@ -228,6 +298,12 @@ namespace _1Calculator
             multiply,
             divide
         }
-
+        enum Mode
+        {
+            normal,
+            percentage,
+            euro,
+            dollar
+        }
     }
 }

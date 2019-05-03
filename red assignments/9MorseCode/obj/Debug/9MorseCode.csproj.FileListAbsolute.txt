@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\bin\Debug\9MorseCode.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\bin\Debug\9MorseCode.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\bin\Debug\9MorseCode.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\_9MorseCode.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\9MorseCode\obj\Debug\9MorseCode.pdb

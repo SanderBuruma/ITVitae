@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\bin\Debug\4CharCount.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\bin\Debug\4CharCount.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\bin\Debug\4CharCount.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\_4CharCount.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\4CharCount\obj\Debug\4CharCount.pdb

@@ -1,0 +1,53 @@
+﻿<Window x:Class="_3Encryption.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3Encryption"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="173.2" Width="800">
+    <Grid>
+        <TextBox x:Name="FilepathBox" HorizontalAlignment="Left" Height="19" Margin="50,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="571"/>
+        <Button x:Name="ButtonSelectFile" Content="Select TXT File" HorizontalAlignment="Left" Margin="635,35,0,0" VerticalAlignment="Top" Width="134" Click="ButtonSelectFile_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFDADADA" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ButtonEncrypt" Content="Encrypt!" Margin="207,83,0,0" VerticalAlignment="Top" Width="134" HorizontalAlignment="Left" Click="ButtonEncrypt_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFDADADA" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ButtonDeEncrypt" Content="De-Encrypt!" Margin="346,83,0,0" VerticalAlignment="Top" Width="134" HorizontalAlignment="Left" Click="ButtonDeEncrypt_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFD7D7D7" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="EncodeKeyBox" HorizontalAlignment="Left" Height="19" Margin="50,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="571" FontFamily="Liberation Mono"/>
+        <Button x:Name="ButtonRngKey" Content="Generate Random Key!" HorizontalAlignment="Left" Margin="635,59,0,0" VerticalAlignment="Top" Width="134" Click="ButtonRngKey_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" SpreadMethod="Repeat">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform X="2"/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

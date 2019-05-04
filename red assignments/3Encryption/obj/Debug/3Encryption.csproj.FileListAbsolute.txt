@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\bin\Debug\3Encryption.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\bin\Debug\3Encryption.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\bin\Debug\3Encryption.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\_3Encryption.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\3Encryption\obj\Debug\3Encryption.csprojAssemblyReference.cache

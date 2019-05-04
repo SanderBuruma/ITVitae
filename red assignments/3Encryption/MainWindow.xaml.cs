@@ -47,14 +47,8 @@ namespace _3Encryption
 
         private void ButtonRngKey_Click(object sender, RoutedEventArgs e)
         {
-            string key = "";
             Random rng = new Random();
-            int count = 0;
-            while (count++ < 16)
-            {
-                key += Convert.ToChar(rng.Next(0, 256));
-            }
-            EncodeKeyBox.Text = key;
+            EncodeKeyBox.Text = rng.Next().ToString();
         }
 
         private void ButtonEncrypt_Click(object sender, RoutedEventArgs e)
@@ -86,7 +80,8 @@ namespace _3Encryption
 
             for (int i = 0; i < fileChars.Length; i++)
             {
-                encryptString += (char)(fileChars[i] + rng.Next(0, 256));
+                int j = (fileChars[i] + rng.Next(0, 256)) % 256;
+                encryptString += (char)j;
             }
 
             File.WriteAllText(FilepathBox.Text, encryptString);
@@ -128,7 +123,7 @@ namespace _3Encryption
             }
 
             File.WriteAllText(FilepathBox.Text, decryptString);
-            MessageBox.Show("File was successfully decrypted. Please check its content to see whether or not it makes any sense at all.");
+            MessageBox.Show("File was successfully decrypted. Please check its content to see whether or not you used the correct decryption key.");
         }
     }
 }

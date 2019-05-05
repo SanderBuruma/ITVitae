@@ -1,0 +1,236 @@
+Afghanistan-Flag.png%Afghanistan
+African-Union-Flag.png%African Union
+Albania-Flag.png%Albania
+Algeria-Flag.png%Algeria
+American-Samoa-Flag.png%American Samoa
+Andorra-Flag.png%Andorra
+Angola-Flag.png%Angola
+Anguilla-Flag.png%Anguilla
+Antarctica-Flag.png%Antarctica
+Antigua-and-Barbuda-Flag.png%Antigua and Barbuda
+Arab-League-Flag.png%Arab League
+Argentina-Flag.png%Argentina
+Armenia-Flag.png%Armenia
+Aruba-Flag.png%Aruba
+Asean-Flag.png%Asean
+Australia-Flag.png%Australia
+Austria-Flag.png%Austria
+Azerbaijan-Flag.png%Azerbaijan
+Bahamas-Flag.png%Bahamas
+Bahrain-Flag.png%Bahrain
+Bangladesh-Flag.png%Bangladesh
+Barbados-Flag.png%Barbados
+Belarus-Flag.png%Belarus
+Belgium-Flag.png%Belgium
+Belize-Flag.png%Belize
+Benin-Flag.png%Benin
+Bermuda-Flag.png%Bermuda
+Bhutan-Flag.png%Bhutan
+Bolivia-Flag.png%Bolivia
+Bosnia-and-Herzegovina-Flag.png%Bosnia and Herzegovina
+Botswana-Flag.png%Botswana
+Brazil-Flag.png%Brazil
+Brunei-Flag.png%Brunei
+Bulgaria-Flag.png%Bulgaria
+Burkina-Faso-Flag.png%Burkina Faso
+Burundi-Flag.png%Burundi
+Cambodia-Flag.png%Cambodia
+Cameroon-Flag.png%Cameroon
+Canada-Flag.png%Canada
+Cape-Verde-Flag.png%Cape Verde
+Caricom-Flag.png%Caricom
+Cayman-Islands-Flag.png%Cayman Islands
+Central-African-Republic-Flag.png%Central African Republic
+Chad-Flag.png%Chad
+Chile-Flag.png%Chile
+China-Flag.png%China
+Cis-Flag.png%Cis
+Colombia-Flag.png%Colombia
+Commonwealth-of-Nations-Flag.png%Commonwealth of Nations
+Comoros-Flag.png%Comoros
+Congo-Brazzaville-Flag.png%Congo Brazzaville
+Congo-Kinshasa-Flag.png%Congo Kinshasa
+Cook-Islands-Flag.png%Cook Islands
+Costa-Rica-Flag.png%Costa Rica
+Cote-DIvoire-Flag.png%Cote DIvoire
+Croatia-Flag.png%Croatia
+Cuba-Flag.png%Cuba
+Cyprus-Flag.png%Cyprus
+Czech-Republic-Flag.png%Czech Republic
+Denmark-Flag.png%Denmark
+Djibouti-Flag.png%Djibouti
+Dominica-Flag.png%Dominica
+Dominican-Republic-Flag.png%Dominican Republic
+East-Timor-Flag.png%East Timor
+Ecuador-Flag.png%Ecuador
+Egypt-Flag.png%Egypt
+El-Salvador-Flag.png%El Salvador
+England-Flag.png%England
+Equatorial-Guinea-Flag.png%Equatorial Guinea
+Eritrea-Flag.png%Eritrea
+Estonia-Flag.png%Estonia
+Ethiopia-Flag.png%Ethiopia
+European-Union-Flag.png%European Union
+Faroes-Flag.png%Faroes
+Fiji-Flag.png%Fiji
+Finland-Flag.png%Finland
+France-Flag.png%France
+Gabon-Flag.png%Gabon
+Gambia-Flag.png%Gambia
+Georgia-Flag.png%Georgia
+Germany-Flag.png%Germany
+Ghana-Flag.png%Ghana
+Gibraltar-Flag.png%Gibraltar
+Greece-Flag.png%Greece
+Grenada-Flag.png%Grenada
+Guam-Flag.png%Guam
+Guatemala-Flag.png%Guatemala
+Guinea-Flag.png%Guinea
+Guinea-Bissau-Flag.png%Guinea Bissau
+Guyana-Flag.png%Guyana
+Haiti-Flag.png%Haiti
+Honduras-Flag.png%Honduras
+Hong-Kong-Flag.png%Hong Kong
+Hungary-Flag.png%Hungary
+Iceland-Flag.png%Iceland
+India-Flag.png%India
+Indonezia-Flag.png%Indonezia
+Iran-Flag.png%Iran
+Iraq-Flag.png%Iraq
+Ireland-Flag.png%Ireland
+Islamic-Conference-Flag.png%Islamic Conference
+Israel-Flag.png%Israel
+Italy-Flag.png%Italy
+Jamaica-Flag.png%Jamaica
+Japan-Flag.png%Japan
+Jersey-Flag.png%Jersey
+Jordan-Flag.png%Jordan
+Kazakhstan-Flag.png%Kazakhstan
+Kenya-Flag.png%Kenya
+Kiribati-Flag.png%Kiribati
+Kuwait-Flag.png%Kuwait
+Kyrgyzstan-Flag.png%Kyrgyzstan
+Laos-Flag.png%Laos
+Latvia-Flag.png%Latvia
+Lebanon-Flag.png%Lebanon
+Lesotho-Flag.png%Lesotho
+Liberia-Flag.png%Liberia
+Libya-Flag.png%Libya
+Liechtenshein-Flag.png%Liechtenshein
+Lithuania-Flag.png%Lithuania
+Luxembourg-Flag.png%Luxembourg
+Macau-Flag.png%Macau
+Macedonia-Flag.png%Macedonia
+Madagascar-Flag.png%Madagascar
+Malawi-Flag.png%Malawi
+Malaysia-Flag.png%Malaysia
+Maldives-Flag.png%Maldives
+Mali-Flag.png%Mali
+Malta-Flag.png%Malta
+Marshall-Islands-Flag.png%Marshall Islands
+Mauritania-Flag.png%Mauritania
+Mauritius-Flag.png%Mauritius
+Mexico-Flag.png%Mexico
+Micronesia-Flag.png%Micronesia
+Moldova-Flag.png%Moldova
+Monaco-Flag.png%Monaco
+Mongolia-Flag.png%Mongolia
+Montenegro-Flag.png%Montenegro
+Montserrat-Flag.png%Montserrat
+Morocco-Flag.png%Morocco
+Mozambique-Flag.png%Mozambique
+Myanmar-Flag.png%Myanmar
+Namibia-Flag.png%Namibia
+NATO-Flag.png%NATO
+Nauru-Flag.png%Nauru
+Nepal-Flag.png%Nepal
+Netherlands-Antilles-Flag.png%Netherlands Antilles
+Netherlands-Flag.png%Netherlands
+New-Zealand-Flag.png%New Zealand
+Nicaragua-Flag.png%Nicaragua
+Niger-Flag.png%Niger
+Nigeria-Flag.png%Nigeria
+North-Korea-Flag.png%North Korea
+Northern-Cyprus-Flag.png%Northern Cyprus
+Northern-Ireland-Flag.png%Northern Ireland
+Norway-Flag.png%Norway
+Olimpic-Movement-Flag.png%Olimpic Movement
+Oman-Flag.png%Oman
+OPEC-Flag.png%OPEC
+Pakistan-Flag.png%Pakistan
+Palau-Flag.png%Palau
+Palestine-Flag.png%Palestine
+Panama-Flag.png%Panama
+Papua-New-Guinea-Flag.png%Papua New Guinea
+Paraguay-Flag.png%Paraguay
+Peru-Flag.png%Peru
+Philippines-Flag.png%Philippines
+Poland-Flag.png%Poland
+Portugal-Flag.png%Portugal
+Puerto-Rico-Flag.png%Puerto Rico
+Qatar-Flag.png%Qatar
+Red-Cross-Flag.png%Red Cross
+Romania-Flag.png%Romania
+Russian-Federation-Flag.png%Russian Federation
+Rwanda-Flag.png%Rwanda
+Saint-Lucia-Flag.png%Saint Lucia
+Samoa-Flag.png%Samoa
+San-Marino-Flag.png%San Marino
+Sao-Tome-and-Principe-Flag.png%Sao Tome and-Principe
+Saudi-Arabia-Flag.png%Saudi Arabia
+Scotland-Flag.png%Scotland
+Senegal-Flag.png%Senegal
+Serbia-Flag.png%Serbia
+Seychelles-Flag.png%Seychelles
+Sierra-Leone-Flag.png%Sierra Leone
+Singapore-Flag.png%Singapore
+Slovakia-Flag.png%Slovakia
+Slovenia-Flag.png%Slovenia
+Solomon-Islands-Flag.png%Solomon Islands
+Somalia-Flag.png%Somalia
+Somaliland-Flag.png%Somaliland
+South-Africa-Flag.png%South Africa
+South-Korea-Flag.png%South Korea
+Spain-Flag.png%Spain
+Sri-Lanka-Flag.png%Sri Lanka
+St-Kitts-and-Nevis-Flag.png%St Kitts and-Nevis
+St-Vincent-and-the-Grenadines-Flag.png%St Vincent and-the-Grenadines
+Sudan-Flag.png%Sudan
+Suriname-Flag.png%Suriname
+Swaziland-Flag.png%Swaziland
+Sweden-Flag.png%Sweden
+Switzerland-Flag.png%Switzerland
+Syria-Flag.png%Syria
+Tahiti-Flag.png%Tahiti
+Taiwan-Flag.png%Taiwan
+Tajikistan-Flag.png%Tajikistan
+Tanzania-Flag.png%Tanzania
+Thailand-Flag.png%Thailand
+Timor-Leste-Flag.png%Timor Leste
+Togo-Flag.png%Togo
+Tonga-Flag.png%Tonga
+Trinidad-and-Tobago-Flag.png%Trinidad and Tobago
+Tunisia-Flag.png%Tunisia
+Turkey-Flag.png%Turkey
+Turkmenistan-Flag.png%Turkmenistan
+Turks-and-Caicos-Islands-Flag.png%Turks and Caicos-Islands
+Tuvalu-Flag.png%Tuvalu
+Uganda-Flag.png%Uganda
+Ukraine-Flag.png%Ukraine
+United-Arab-Emirates-Flag.png%United Arab Emirates
+United-Kingdom-Flag.png%United Kingdom
+United-Nations-Flag.png%United Nations
+United-States-of-America-Flag.png%United States of-America
+Uruguay-Flag.png%Uruguay
+Uzbekistan-Flag.png%Uzbekistan
+Vanutau-Flag.png%Vanutau
+Vatican-City-Flag.png%Vatican City
+Venezuela-Flag.png%Venezuela
+Viet-Nam-Flag.png%Viet Nam
+Virgin-Islands-British-Flag.png%Virgin Islands British
+Virgin-Islands-US-Flag.png%Virgin Islands US
+Wales-Flag.png%Wales
+Western-Sahara-Flag.png%Western Sahara
+Yemen-Flag.png%Yemen
+Zambia-Flag.png%Zambia
+Zimbabwe-Flag.png%Zimbabwe

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_3Encryption"
         mc:Ignorable="d"
-        Title="MainWindow" Height="173.2" Width="800">
+        Title="En &amp; De-Cryptor by Sander Buruma" Height="173.2" Width="800">
     <Grid>
         <TextBox x:Name="FilepathBox" HorizontalAlignment="Left" Height="19" Margin="50,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="571"/>
         <Button x:Name="ButtonSelectFile" Content="Select TXT File" HorizontalAlignment="Left" Margin="635,35,0,0" VerticalAlignment="Top" Width="134" Click="ButtonSelectFile_Click">

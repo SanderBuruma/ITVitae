@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\bin\Debug\2Flags.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\bin\Debug\2Flags.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\bin\Debug\2Flags.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\_2Flags.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\2Flags.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\2Flags\obj\Debug\GeneratedInternalTypeHelper.g.cs

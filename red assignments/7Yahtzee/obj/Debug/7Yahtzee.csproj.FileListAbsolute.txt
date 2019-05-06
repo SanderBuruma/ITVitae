@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\bin\Debug\7Yahtzee.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\bin\Debug\7Yahtzee.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\bin\Debug\7Yahtzee.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\_7Yahtzee.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\7Yahtzee\obj\Debug\7Yahtzee.pdb

@@ -17,10 +17,10 @@
             <RowDefinition Height="24*"/>
         </Grid.RowDefinitions>
         <Image x:Name="FlagImage" HorizontalAlignment="Center" Height="48" Grid.Row="1" VerticalAlignment="Center" Width="48" Source="Resources/Flags/Azerbaijan-Flag.png"/>
-        <RadioButton x:Name="Radio1" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" Height="16" Cursor="Hand" Checked="Radio1_Checked"/>
-        <RadioButton x:Name="Radio2" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" Height="15" Cursor="Hand" Checked="Radio2_Checked"/>
-        <RadioButton x:Name="Radio3" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,51,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" Height="15" Cursor="Hand" Checked="Radio3_Checked"/>
-        <RadioButton x:Name="Radio4" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,71,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" Height="15" Cursor="Hand" Checked="Radio4_Checked"/>
+        <RadioButton x:Name="Radio1" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="227" Height="16" Cursor="Hand" Checked="Radio1_Checked"/>
+        <RadioButton x:Name="Radio2" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="227" Height="15" Cursor="Hand" Checked="Radio2_Checked"/>
+        <RadioButton x:Name="Radio3" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,51,0,0" Grid.Row="1" VerticalAlignment="Top" Width="227" Height="15" Cursor="Hand" Checked="Radio3_Checked"/>
+        <RadioButton x:Name="Radio4" Content="RadioButton" Grid.Column="1" HorizontalAlignment="Left" Margin="10.6,71,0,0" Grid.Row="1" VerticalAlignment="Top" Width="227" Height="15" Cursor="Hand" Checked="Radio4_Checked"/>
         <Label x:Name="ScoreLabel" Content="Score: " Grid.Column="1" HorizontalAlignment="Left" Margin="163.6,0,0,0" VerticalAlignment="Top" Padding="5,0" Width="74" FontWeight="Bold"/>
     </Grid>
 </Window>

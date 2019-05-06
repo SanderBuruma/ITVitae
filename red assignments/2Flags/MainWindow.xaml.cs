@@ -77,21 +77,41 @@ namespace _2Flags
 
         private void Radio1_Checked(object sender, RoutedEventArgs e)
         {
-
+            Radio1.IsChecked = false;
+            MakeGuess(0);
         }
 
         private void Radio2_Checked(object sender, RoutedEventArgs e)
         {
-
+            Radio2.IsChecked = false;
+            MakeGuess(1);
         }
 
         private void Radio3_Checked(object sender, RoutedEventArgs e)
         {
-
+            Radio3.IsChecked = false;
+            MakeGuess(2);
         }
 
         private void Radio4_Checked(object sender, RoutedEventArgs e)
         {
+            Radio4.IsChecked = false;
+            MakeGuess(3);
+        }
+
+        private void MakeGuess(int guess)
+        {
+            if (CorrectAnswer != guess)
+            {
+                MessageBox.Show("Your guess was wrong! The correct answer was " + FlagStrings[FlagNrs[CorrectAnswer]].Split('%')[1]
+                    + "\n\nYour final score is " + Score.ToString());
+                ChangeScore(0);
+            }
+            else
+            {
+                ChangeScore(Score+10);
+            }
+            ChangeFlagAndAnswers();
 
         }
     }

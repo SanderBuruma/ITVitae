@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\bin\Debug\6RansomLetter.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\bin\Debug\6RansomLetter.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\bin\Debug\6RansomLetter.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\_6RansomLetter.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\6RansomLetter\obj\Debug\6RansomLetter.pdb

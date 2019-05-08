@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\bin\Debug\5RomanCalculator.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\bin\Debug\5RomanCalculator.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\bin\Debug\5RomanCalculator.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\_5RomanCalculator.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\5RomanCalculator\obj\Debug\5RomanCalculator.pdb

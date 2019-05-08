@@ -1,0 +1,20 @@
+﻿<Window x:Class="_5RomanCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5RomanCalculator"
+        mc:Ignorable="d"
+        Title="Roman Numeral Calculator by Sander Buruma" Height="102" Width="604.533" Background="#FFCDCDCD">
+    <Grid>
+        <TextBox x:Name="Value1Box" HorizontalAlignment="Left" Height="20" Margin="30,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderThickness="2" TextAlignment="Center" Cursor="IBeam" Text="CCC" LostFocus="Value1Box_LostFocus"/>
+        <TextBox x:Name="Value2Box" HorizontalAlignment="Left" Height="20" Margin="218,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderThickness="2" TextAlignment="Center" Cursor="IBeam" Text="XV" LostFocus="Value2Box_LostFocus"/>
+        <TextBox x:Name="OutputBox" HorizontalAlignment="Left" Height="20" Margin="408,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderThickness="2" TextAlignment="Center" IsEnabled="False" Text="CCCXV"/>
+        <RadioButton x:Name="RadioAdd" Content="+" HorizontalAlignment="Left" Margin="162,35,0,0" VerticalAlignment="Top" BorderThickness="1" Width="15" Height="25" Padding="-12,11,0,0" Checked="RadioAdd_Checked"/>
+        <RadioButton x:Name="RadioSub" Content="-" HorizontalAlignment="Left" Margin="182,35,0,0" VerticalAlignment="Top" BorderThickness="1" Width="15" Height="25" Padding="-11,6,0,0" FontSize="18" Checked="RadioSub_Checked"/>
+        <RadioButton x:Name="RadioMult" Content="*" HorizontalAlignment="Left" Margin="202,35,0,0" VerticalAlignment="Top" BorderThickness="1" Width="15" Height="25" Padding="-11,14,0,0" Checked="RadioMult_Checked"/>
+        <RadioButton x:Name="RadioDiv" Content="/" HorizontalAlignment="Left" Margin="222,35,0,0" VerticalAlignment="Top" BorderThickness="1" Width="15" Height="25" Padding="-11,14,0,0" Checked="RadioDiv_Checked"/>
+        <Button x:Name="CalculateButton" Content="=" HorizontalAlignment="Left" Margin="377,10,0,0" VerticalAlignment="Top" Width="20" Padding="1,-3,0,0" Height="20" FontSize="14" RenderTransformOrigin="1.657,0.557" BorderThickness="1" Click="CalculateButton_Click"/>
+        <Label x:Name="OperatorLabel" Content="+" HorizontalAlignment="Left" Margin="186,10,0,0" VerticalAlignment="Top" Width="27" Height="20" Padding="0,0,0,5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+    </Grid>
+</Window>

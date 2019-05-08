@@ -319,12 +319,12 @@ namespace _7Yahtzee
             }
             if (Round < 3 && key > 12)
             {
-                MessageBox.Show("Please choose a score field of the other player!");
+                MessageBox.Show("It is not this player's turn to score!");
                 return;
             }
             if (Round > 2 && key < 13)
             {
-                MessageBox.Show("Please choose a score field of the other player!");
+                MessageBox.Show("It is not this player's turn to score!");
                 return;
             }
 
@@ -348,10 +348,10 @@ namespace _7Yahtzee
                 int[] sum = new int[2];
                 for (int i = 0; i<6; i++)
                 {
-                    sum[0] += (int)Scores[i];
+                    sum[0] += Scores[i] ?? 0;
                     if (Scores[i] == null)
                         b[0] = false;
-                    sum[1] += (int)Scores[i + 13];
+                    sum[1] += Scores[i + 13] ?? 0;
                     if (Scores[i + 13] == null)
                         b[1] = false;
                 }
@@ -638,8 +638,16 @@ namespace _7Yahtzee
             string key = e.Key.ToString();
             if ("Return" == key)
                 RollDice();
+        }
 
-            MessageBox.Show(key);
+        private void Player1NameBox_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (!GameOver) Message1();
+        }
+
+        private void Player2NameBox_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (!GameOver) Message1();
         }
     }
 

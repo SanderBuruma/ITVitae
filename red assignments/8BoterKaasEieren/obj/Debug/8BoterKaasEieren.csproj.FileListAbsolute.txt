@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\bin\Debug\8BoterKaasEieren.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\bin\Debug\8BoterKaasEieren.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\bin\Debug\8BoterKaasEieren.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\_8BoterKaasEieren.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\8BoterKaasEieren\obj\Debug\8BoterKaasEieren.pdb

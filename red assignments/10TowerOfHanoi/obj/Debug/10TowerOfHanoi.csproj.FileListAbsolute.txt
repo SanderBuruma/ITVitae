@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\bin\Debug\10TowerOfHanoi.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\bin\Debug\10TowerOfHanoi.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\bin\Debug\10TowerOfHanoi.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\_10TowerOfHanoi.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\red assignments\10TowerOfHanoi\obj\Debug\10TowerOfHanoi.pdb

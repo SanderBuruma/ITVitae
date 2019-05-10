@@ -1,0 +1,12 @@
+﻿<Window x:Name="MainWindow1" x:Class="_10TowerOfHanoi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10TowerOfHanoi"
+        mc:Ignorable="d"
+        Title="Tower of Hanoi by Sander Buruma" Height="262.8" Width="550" Background="LightGray" ResizeMode="NoResize" MouseDown="MainWindow1_MouseDown" MouseUp="MainWindow1_MouseUp">
+    <Grid x:Name="MainGrid">
+        <Button x:Name="HelpButton" Content="?" HorizontalAlignment="Left" Margin="26,10,0,0" VerticalAlignment="Top" Width="20" Click="HelpButton_Click"/>
+    </Grid>
+</Window>

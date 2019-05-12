@@ -24,111 +24,36 @@ namespace _5KinderBijslag
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<Kind> Kinderen = new List<Kind> { };
-        private readonly BinaryFormatter Formatter =  new BinaryFormatter();
-        private readonly string DATA_FILENAME = "KinderenData.dat";
+        private Data DataPage = new Data();
+        private Result ResultPage = new Result();
+        private UserControl[] Views;
         public MainWindow()
         {
             InitializeComponent();
-            LoadFromFile();
+
+            Views = new UserControl[2]
+            {
+                DataPage,
+                ResultPage
+            };
+
+            MainFrame.NavigationService.Navigate(Views[0]);
         }
 
-        [Serializable]
-        public class Kind
+        private void KinderDataButton_Click(object sender, RoutedEventArgs e)
         {
-            public string Voornaam { get; set; }
-            public string Familienaam { get; set; }
-            public string Geboortedatum { get; set; }
-            public Kind(string vn, string fn, string gd)
-            {
-                Voornaam = vn;
-                Familienaam = fn;
-                Geboortedatum = gd;
-            }
-
+            MainFrame.NavigationService.Navigate(Views[0]);
         }
 
-        private void LoadFromFile()
+        private void KinderBijslagButton_Click(object sender, RoutedEventArgs e)
         {
-            if (!File.Exists(DATA_FILENAME))
+            if (DataPage.PeilDatum == null)
             {
-                MessageBox.Show("\"" + DATA_FILENAME + "\" niet gevonden. Vul nieuwe data in en klik op de Save to File knop.");
+                MessageBox.Show("Selecteer eerst een peildatum");
                 return;
             }
-
-            try
-            {
-                FileStream KinderBestand = new FileStream(DATA_FILENAME,
-                FileMode.Open, FileAccess.Read);
-                Kinderen = (List<Kind>)
-                    Formatter.Deserialize(KinderBestand);
-                KinderBestand.Close();
-
-                foreach (Kind kind in Kinderen)
-                    DataGridXML.Items.Add(kind);
-            }
-            catch
-            {
-                MessageBox.Show("Er was een probleem met het laden van het \"" + DATA_FILENAME + "\" bestand.");
-            }
-        }
-
-        private void SaveToFile()
-        {
-            try
-            {
-                FileStream KinderBestand =
-                    new FileStream("KinderenData.dat", FileMode.OpenOrCreate, FileAccess.Write);
-
-                Formatter.Serialize(KinderBestand, Kinderen);
-
-                KinderBestand.Close();
-            }
-            catch
-            {
-                MessageBox.Show("Failed to write file");
-            }
-        }
-
-        private void SaveToFileButton_Click(object sender, RoutedEventArgs e)
-        {
-            SaveToFile();
-        }
-
-        private void AddKindButton_Click(object sender, RoutedEventArgs e)
-        {
-            if (KindVoornaamBox.Text.Length < 3 || KindFamilienaamBox.Text.Length < 3)
-            {
-                MessageBox.Show("Voor en familienaam moeten minstens 3 letters bevatten.");
-                return;
-            }
-            Regex negativeLetterCheck = new Regex("[^a-zA-Z ]");
-            if (negativeLetterCheck.IsMatch(KindVoornaamBox.Text))
-            {
-                MessageBox.Show("Gebruik alleen letters en spaties in de voornaam a.u.b.");
-                return;
-            }
-            if (negativeLetterCheck.IsMatch(KindFamilienaamBox.Text))
-            {
-                MessageBox.Show("Gebruik alleen letters en spaties in de familienaam a.u.b.");
-                return;
-            }
-            if (!DateTime.TryParse(KindGeboortedatumBox.Text, out DateTime gd))
-            {
-                MessageBox.Show("Er is iets foutgegaan met het herkennen van de geboortedatum.");
-                return;
-            }
-            Kinderen.Add(new Kind(
-                KindVoornaamBox.Text,
-                KindFamilienaamBox.Text,
-                string.Format("{0:0000}/{1:00}/{2:00}", gd.Year, gd.Month, gd.Day)
-            ));
-            DataGridXML.Items.Add(Kinderen[Kinderen.Count-1]);
-            SaveToFile();
-
-            KindVoornaamBox.Text = "";
-            KindFamilienaamBox.Text = "";
-
+            MainFrame.NavigationService.Navigate(Views[1]);
+            ResultPage.UpdateResult(DataPage.Kinderen, DataPage.PeilDatum);
         }
     }
 }

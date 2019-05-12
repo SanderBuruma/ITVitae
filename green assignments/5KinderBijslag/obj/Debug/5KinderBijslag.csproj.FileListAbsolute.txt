@@ -13,3 +13,7 @@ C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Deb
 C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\5KinderBijslag.csproj.CoreCompileInputs.cache
 C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\5KinderBijslag.exe
 C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\5KinderBijslag.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\Result.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\5KinderBijslag\obj\Debug\Result.baml

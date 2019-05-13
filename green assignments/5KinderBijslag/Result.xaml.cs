@@ -23,13 +23,13 @@ namespace _5KinderBijslag
         public Result()
         {
             InitializeComponent();
+            DataGridXML.IsReadOnly = true;
         }
 
         internal void UpdateResult(List<Kind> Kinderen, DateTime peildatum)
         {
             DataGridXML.Items.Clear();
-            var Families = new Dictionary<string, Familie> {
-            };
+            var Families = new Dictionary<string, Familie> { };
             foreach (Kind kind in Kinderen)
             {
                 if (!DateTime.TryParse(kind.Geboortedatum, out DateTime dt))
@@ -42,18 +42,15 @@ namespace _5KinderBijslag
                 if (LeeftijdInJaren < 12)
                 {
                     bijslag = 150;
-                    MessageBox.Show(kind.Voornaam + " is jonger dan 12");
                 }
                 else if (LeeftijdInJaren < 18)
                 {
                     bijslag = 235;
-                    MessageBox.Show(kind.Voornaam + " is jonger dan 18");
                 }
-                MessageBox.Show(LeeftijdInJaren.ToString("{0}"));
 
                 if (!Families.ContainsKey(kind.Familienaam))
                 {
-                    Families.Add(kind.Familienaam, new Familie(bijslag));
+                    Families.Add(kind.Familienaam, new Familie(bijslag, kind.Familienaam));
                 }
                 else
                 {
@@ -61,13 +58,28 @@ namespace _5KinderBijslag
                     Families[kind.Familienaam].Bijslag+=bijslag;
                 }
             }
+
+            foreach (KeyValuePair<string, Familie> entry in Families)
+            {
+                if (entry.Value.AantalKinderen < 5)
+                    entry.Value.Bijslag *= 1.02;
+                else if (entry.Value.AantalKinderen < 6)
+                    entry.Value.Bijslag *= 1.03;
+                else
+                    entry.Value.Bijslag *= 1.035;
+
+                entry.Value.Bijslag = (double)Math.Round((decimal)entry.Value.Bijslag, 2);
+                DataGridXML.Items.Add(entry.Value);
+            }
         }
         public class Familie
         {
+            public string FamilieNaam { get; set; }
             public int AantalKinderen { get; set; }
             public double Bijslag { get; set; }
-            public Familie(double b)
+            public Familie(double b, string familieNaam)
             {
+                FamilieNaam = familieNaam;
                 AantalKinderen = 1;
                 Bijslag = b;
             }

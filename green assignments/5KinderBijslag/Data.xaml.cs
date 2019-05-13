@@ -30,6 +30,8 @@ namespace _5KinderBijslag
             LoadFromFile();
             PeilDatum = new DateTime(2019, 05, 12);
             PeildatumBox.SelectedDate = PeilDatum;
+            //DataGridXML.CanUserDeleteRows = true;
+            DataGridXML.IsReadOnly = false;
         }
 
         private readonly BinaryFormatter Formatter = new BinaryFormatter();

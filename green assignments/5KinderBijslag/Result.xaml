@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" Width="624" Background="#DDD">
     <Grid>
-        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden">
+        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden" Background="White">
             <DataGrid.Resources>
                 <Style TargetType="{x:Type DataGridColumnHeader}">
                     <Setter Property="Background" Value="#bbf"/>
@@ -15,11 +15,12 @@
                     <Setter Property="BorderThickness" Value="0,0,0,1"/>
                     <Setter Property="BorderBrush" Value="Black"/>
                     <Setter Property="HorizontalContentAlignment" Value="center"/>
-                    <Setter Property="Width" Value="300"/>
+                    <Setter Property="Width" Value="200"/>
                 </Style>
             </DataGrid.Resources>
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Familie" Binding="{Binding Familie}"/>
+                <DataGridTextColumn Header="Familie" Binding="{Binding FamilieNaam}"/>
+                <DataGridTextColumn Header="Kinderen" Binding="{Binding AantalKinderen}"/>
                 <DataGridTextColumn Header="Bijslag in €" Binding="{Binding Bijslag}"/>
             </DataGrid.Columns>
         </DataGrid>

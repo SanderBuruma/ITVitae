@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" Width="624" Background="#DDD">
     <Grid>
-        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden">
+        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden" CellEditEnding="DataGridXML_CellEditEnding">
             <DataGrid.Resources>
                 <Style TargetType="{x:Type DataGridColumnHeader}">
                     <Setter Property="Background" Value="#bbf"/>
@@ -18,11 +18,6 @@
                     <Setter Property="Width" Value="200"/>
                 </Style>
             </DataGrid.Resources>
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="Voornaam" Binding="{Binding Voornaam}"/>
-                <DataGridTextColumn Header="Familienaam" Binding="{Binding Familienaam}"/>
-                <DataGridTextColumn Header="Geboortedatum" Binding="{Binding Geboortedatum}"/>
-            </DataGrid.Columns>
         </DataGrid>
         <Label Content="Voornaam:" HorizontalAlignment="Left" Margin="151,312,0,0" VerticalAlignment="Top" Height="17" Width="122" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
         <Label Content="Familienaam:" HorizontalAlignment="Left" Margin="150,334,0,0" VerticalAlignment="Top" Height="17" Width="122" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
@@ -34,4 +29,5 @@
         <Button x:Name="AddKindButton" Content="Voeg Toe" HorizontalAlignment="Left" Margin="183,385,0,0" VerticalAlignment="Top" Width="276" Background="White" Click="AddKindButton_Click" BorderBrush="#FFB6B6B6"/>
         <DatePicker x:Name="PeildatumBox" HorizontalAlignment="Left" Margin="428,255,0,0" VerticalAlignment="Top" Width="182" SelectedDateFormat="Long" BorderBrush="{x:Null}" CalendarClosed="PeildatumBox_CalendarClosed"/>
         <Rectangle HorizontalAlignment="Left" Height="120" Margin="162,299,0,0" Stroke="#FFADADAD" VerticalAlignment="Top" Width="320" RadiusY="12.1" RadiusX="12.1" Panel.ZIndex="-1" Fill="#FFEAEAEA"/>
+        <Button x:Name="VerwijderKindButton" Content="Verwijder" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" Width="70" Background="White" Click="VerwijderKindButton_Click" BorderBrush="#FFB6B6B6"/>
     </Grid></UserControl>

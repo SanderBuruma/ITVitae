@@ -16,6 +16,8 @@ using System.Windows.Shapes;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text.RegularExpressions;
+using System.Timers;
+using System.Threading;
 
 namespace _5KinderBijslag
 {
@@ -24,6 +26,12 @@ namespace _5KinderBijslag
     /// </summary>
     public partial class Data : UserControl
     {
+
+        private readonly BinaryFormatter Formatter = new BinaryFormatter();
+        private readonly string DATA_FILENAME = "KinderenData.dat";
+        public DateTime PeilDatum;
+        internal List<Kind> Kinderen { get; set; } = new List<Kind> { };
+
         public Data()
         {
             InitializeComponent();
@@ -31,14 +39,9 @@ namespace _5KinderBijslag
             PeilDatum = new DateTime(2019, 05, 12);
             PeildatumBox.SelectedDate = PeilDatum;
             //DataGridXML.CanUserDeleteRows = true;
+            DataGridXML.Items.IsLiveSorting = false;
             DataGridXML.IsReadOnly = false;
         }
-
-        private readonly BinaryFormatter Formatter = new BinaryFormatter();
-        private readonly string DATA_FILENAME = "KinderenData.dat";
-        public DateTime PeilDatum;
-
-        internal List<Kind> Kinderen { get; set; } = new List<Kind> { };
 
         private void LoadFromFile()
         {
@@ -50,9 +53,7 @@ namespace _5KinderBijslag
                 FileStream KinderBestand = new FileStream(DATA_FILENAME, FileMode.Open, FileAccess.Read);
                 Kinderen = (List<Kind>) Formatter.Deserialize(KinderBestand);
                 KinderBestand.Close();
-
-                foreach (Kind kind in Kinderen)
-                    DataGridXML.Items.Add(kind);
+                DataGridXML.ItemsSource = Kinderen;
             }
             catch (Exception e)
             {
@@ -106,12 +107,9 @@ namespace _5KinderBijslag
                 KindFamilienaamBox.Text.Trim(),
                 string.Format("{0:0000}/{1:00}/{2:00}", gd.Year, gd.Month, gd.Day)
             ));
-            DataGridXML.Items.Add(Kinderen[Kinderen.Count - 1]);
+            //DataGridXML.Items.Add(Kinderen[Kinderen.Count - 1]);
+            DataGridXML.Items.Refresh();
             SaveToFile();
-
-            KindVoornaamBox.Text = "";
-            KindFamilienaamBox.Text = "";
-
         }
 
         private void PeildatumBox_CalendarClosed(object sender, RoutedEventArgs e)
@@ -122,6 +120,46 @@ namespace _5KinderBijslag
                 return;
             };
             PeilDatum = dt;
+        }
+
+        private void DataGridXML_CellEditEnding(object sender, DataGridCellEditEndingEventArgs e)
+        {
+            string newValue = e.EditingElement.ToString().Replace("System.Windows.Controls.TextBox: ", "");
+            string columnHeader = e.Column.Header.ToString();
+
+            if (columnHeader == "Familienaam" && newValue.Length < 2)
+            {
+                MessageBox.Show("Nieuwe familienaam moet minstens 2 letters lang zijn");
+                e.Cancel = true;
+                return;
+            }
+
+            if (columnHeader == "Voornaam" && newValue.Length < 2)
+            {
+                MessageBox.Show("Nieuwe voornaam moet minstens 2 letters lang zijn");
+                e.Cancel = true;
+                return;
+            }
+
+            if (columnHeader == "Geboortedatum" && !DateTime.TryParse(newValue, out DateTime dt))
+            {
+                MessageBox.Show("Ongeldige datum: " + dt.ToShortDateString());
+                e.Cancel = true;
+                return;
+            }
+
+            var task = Task.Run(async () => {
+                await Task.Delay(1);
+                SaveToFile();
+            });
+        }
+
+        private void VerwijderKindButton_Click(object sender, RoutedEventArgs e)
+        {
+            Kinderen.Remove((Kind)DataGridXML.SelectedItem);
+            DataGridXML.ItemsSource = Kinderen;
+            DataGridXML.Items.Refresh();
+            SaveToFile();
         }
     }
 }

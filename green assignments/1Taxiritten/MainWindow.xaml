@@ -1,0 +1,25 @@
+﻿<Window x:Class="_5KinderBijslag.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5KinderBijslag"
+        mc:Ignorable="d"
+        Title="Taxirit Data" Height="524" Width="630" Background="#FFDDDDDD" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="450"/>
+        </Grid.RowDefinitions>
+        <Frame x:Name="MainFrame" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Margin="0,0,0,0" Grid.ColumnSpan="6" Height="450" Width="624" NavigationUIVisibility="Hidden"/>
+        <Button x:Name="TaxiritDataButton" Content="Taxirit Data" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="10,10,0,0" Height="30" Background="White" Click="TaxiritDataButton_Click"/>
+    </Grid>
+</Window>

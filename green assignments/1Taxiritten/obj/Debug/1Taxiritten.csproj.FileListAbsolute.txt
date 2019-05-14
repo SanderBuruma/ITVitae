@@ -1,0 +1,17 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\bin\Debug\1Taxiritten.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\bin\Debug\1Taxiritten.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\bin\Debug\1Taxiritten.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\_1Taxiritten.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\1Taxiritten\obj\Debug\1Taxiritten.csproj.CoreCompileInputs.cache

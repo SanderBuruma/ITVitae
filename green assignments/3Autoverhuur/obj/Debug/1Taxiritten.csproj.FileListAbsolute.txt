@@ -1,0 +1,17 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\bin\Debug\3Autoverhuur.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\bin\Debug\3Autoverhuur.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\bin\Debug\3Autoverhuur.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\_3Autoverhuur.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\3Autoverhuur\obj\Debug\3Autoverhuur.csproj.CoreCompileInputs.cache

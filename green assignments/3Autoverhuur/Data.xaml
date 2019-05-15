@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="_3Autoverhuur.Data"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_3Autoverhuur"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" Width="624" Background="#DDD">
+    <Grid>
+        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#bbf"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="center"/>
+                    <Setter Property="Width" Value="120"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Label Content="Gereden kms:" HorizontalAlignment="Left" Margin="102,284,0,0" VerticalAlignment="Top" Height="17" Width="153" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
+        <Label Content="Begindatum:" HorizontalAlignment="Left" Margin="101,306,0,0" VerticalAlignment="Top" Height="17" Width="153" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
+        <Button x:Name="AddVerhuringButton" Content="Voeg Toe" HorizontalAlignment="Left" Margin="102,391,0,0" VerticalAlignment="Top" Width="463" Background="White" BorderBrush="#FFB6B6B6" Click="AddVerhuringButton_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="151" Margin="85,269,0,0" Stroke="#FFADADAD" VerticalAlignment="Top" Width="499" RadiusY="12.1" RadiusX="12.1" Panel.ZIndex="-1" Fill="#FFEAEAEA"/>
+        <Button x:Name="VerwijderVerhuringButton" Content="Verwijder" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" Width="70" Background="White" Click="VerwijderVerhuringButton_Click" BorderBrush="#FFB6B6B6"/>
+        <TextBox x:Name="GeredenKmsBox" HorizontalAlignment="Left" Height="17" Margin="261,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304" TextChanged="GeredenKmsBox_TextChanged"/>
+        <Label Content="Eindedatum:" HorizontalAlignment="Left" Margin="101,328,0,0" VerticalAlignment="Top" Height="17" Width="153" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
+        <DatePicker x:Name="BeginDatumBox" HorizontalAlignment="Left" Margin="261,306,0,0" VerticalAlignment="Top" Height="17" Width="304" Padding="2,0" CalendarClosed="BeginDatumBox_CalendarClosed"/>
+        <DatePicker x:Name="EindeDatumBox" HorizontalAlignment="Left" Margin="261,328,0,0" VerticalAlignment="Top" Height="17" Width="304" Padding="2,0" CalendarClosed="EindeDatumBox_CalendarClosed"/>
+        <ListBox x:Name="TypeVoertuigBox" HorizontalAlignment="Left" Height="36" Margin="261,350,0,0" VerticalAlignment="Top" Width="304" SelectedIndex="0">
+            <ListBoxItem Content="auto" FontSize="10" Padding="4,0"/>
+            <ListBoxItem Content="busje" FontSize="10" Padding="4,0"/>
+        </ListBox>
+    </Grid>
+</UserControl>

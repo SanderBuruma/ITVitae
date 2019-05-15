@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="_9Waterverbruik.Data"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_9Waterverbruik"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" Width="624" Background="#DDD">
+    <Grid>
+        <DataGrid x:Name="DataGridXML" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#bbf"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="center"/>
+                    <Setter Property="Width" Value="200"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Label Content="Voor &amp; Achternaam klant:" HorizontalAlignment="Left" Margin="97,334,0,0" VerticalAlignment="Top" Height="17" Width="153" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
+        <Button x:Name="AddVerhuringButton" Content="Voeg Toe" HorizontalAlignment="Left" Margin="97,378,0,0" VerticalAlignment="Top" Width="463" Background="White" BorderBrush="#FFB6B6B6" Click="AddWaterverbruikButton_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="99" Margin="80,319,0,0" Stroke="#FFADADAD" VerticalAlignment="Top" Width="499" RadiusY="12.1" RadiusX="12.1" Panel.ZIndex="-1" Fill="#FFEAEAEA"/>
+        <Button x:Name="VerwijderVerhuringButton" Content="Verwijder" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" Width="70" Background="White" Click="VerwijderWaterverbruikButton_Click" BorderBrush="#FFB6B6B6"/>
+        <TextBox x:Name="NaamBox" HorizontalAlignment="Left" Height="17" Margin="256,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304"/>
+        <Label Content="Waterverbruik in m3:" HorizontalAlignment="Left" Margin="97,356,0,0" VerticalAlignment="Top" Height="17" Width="153" Padding="0,0,5,0" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="WaterverbruikBox" HorizontalAlignment="Left" Height="17" Margin="256,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304" TextChanged="WaterverbruikBox_TextChanged"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\bin\Debug\8Transportbedrijf.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\bin\Debug\8Transportbedrijf.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\bin\Debug\8Transportbedrijf.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\_8Transportbedrijf.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\8Transportbedrijf\obj\Debug\8Transportbedrijf.pdb

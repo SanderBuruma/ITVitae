@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\_6Camping.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\bin\Debug\6Camping.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\bin\Debug\6Camping.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\bin\Debug\6Camping.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\6Camping\obj\Debug\6Camping.pdb

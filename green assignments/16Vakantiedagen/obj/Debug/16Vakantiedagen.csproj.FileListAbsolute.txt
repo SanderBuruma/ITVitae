@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\bin\Debug\16Vakantiedagen.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\bin\Debug\16Vakantiedagen.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\bin\Debug\16Vakantiedagen.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\_16Vakantiedagen.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\16Vakantiedagen\obj\Debug\16Vakantiedagen.pdb

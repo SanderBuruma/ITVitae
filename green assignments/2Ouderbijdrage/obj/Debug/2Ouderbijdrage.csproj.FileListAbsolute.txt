@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\Data.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\_2Ouderbijdrage.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\bin\Debug\2Ouderbijdrage.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\bin\Debug\2Ouderbijdrage.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\bin\Debug\2Ouderbijdrage.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\2Ouderbijdrage\obj\Debug\2Ouderbijdrage.pdb

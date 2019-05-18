@@ -1,0 +1,16 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\bin\Debug\4Dierenpark.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\bin\Debug\4Dierenpark.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\bin\Debug\4Dierenpark.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\_4Dierenpark.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\4Dierenpark.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\Data.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\green assignments\4Dierenpark\obj\Debug\Data.g.cs

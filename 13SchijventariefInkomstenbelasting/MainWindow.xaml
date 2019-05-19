@@ -1,0 +1,38 @@
+﻿<Window x:Class="_13SchijventariefInkomstenbelasting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_13SchijventariefInkomstenbelasting"
+        mc:Ignorable="d"
+        Title="Inkomstenbelasting" Height="372.4" Width="500" Background="#ddd">
+    <Grid>
+        <DataGrid x:Name="PersonenDataGrid" HorizontalAlignment="Left" Height="167" Margin="10,10,0,0" VerticalAlignment="Top" Width="474">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#bbf"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                    <Setter Property="Width" Value="118"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Button x:Name="VerwijderPersoonButton" Content="Verwijder" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Width="70" Background="White" Click="VerwijderPersoonButton_Click"/>
+        <Label Content="Naam Persoon" HorizontalAlignment="Left" Margin="122,210,0,0" VerticalAlignment="Top" Padding="0" HorizontalContentAlignment="Right" Width="89"/>
+        <Label Content="Inkomen €" HorizontalAlignment="Left" Margin="153,228,0,0" VerticalAlignment="Top" Padding="0" HorizontalContentAlignment="Right" Width="58"/>
+        <Button x:Name="VoegtoePersoonButton" Content="Voeg Toe" HorizontalAlignment="Left" Margin="216,300,0,0" VerticalAlignment="Top" Width="70" Background="White" Click="VoegtoePersoonButton_Click"/>
+        <TextBox x:Name="NaamBox" HorizontalAlignment="Left" Height="15" Margin="216,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="107" Padding="0,-2,0,0" TextChanged="NaamBox_TextChanged"/>
+        <TextBox x:Name="InkomenBox" HorizontalAlignment="Left" Height="15" Margin="216,229,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="107" Padding="0,-2,0,0" TextChanged="InkomenBox_TextChanged"/>
+        <Label x:Name="BelastingVrijeSomLabel" Content="Belastingvrije Som: €" HorizontalAlignment="Left" Margin="122,276,0,0" VerticalAlignment="Top" Padding="0" HorizontalContentAlignment="Right" Width="201"/>
+        <ComboBox x:Name="TariefComboBox" HorizontalAlignment="Left" Margin="225,249,0,0" VerticalAlignment="Top" Width="98" SelectedIndex="0" SelectionChanged="TariefComboBox_SelectionChanged">
+            <ListBoxItem Content="Tariefgroep 1"/>
+            <ListBoxItem Content="Tariefgroep 2"/>
+            <ListBoxItem Content="Tariefgroep 3"/>
+            <ListBoxItem Content="Tariefgroep 4"/>
+            <ListBoxItem Content="Tariefgroep 5"/>
+        </ComboBox>
+        <Rectangle Fill="#FFF9F9F9" HorizontalAlignment="Left" Height="130" Margin="122,200,0,0" Stroke="#FFAEAEAE" VerticalAlignment="Top" Width="214" RadiusY="19.3" RadiusX="19.3" Panel.ZIndex="-1"/>
+    </Grid>
+</Window>

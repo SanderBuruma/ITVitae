@@ -157,10 +157,10 @@ namespace _4Dierenpark
             if (DataGridXML.SelectedIndex < 0)
                 return;
 
-            Gezin gezin = (Gezin)DataGridXML.SelectedItem;
-            Gezinnen.Remove(gezin);
+            foreach (Gezin persoon in DataGridXML.SelectedItems)
+                Gezinnen.Remove(persoon);
             DataGridPersonen.SelectedIndex = -1;
-            DataGridXML.SelectedIndex = -1;
+
             DataGridXML.Items.Refresh();
             SaveToFile();
         }

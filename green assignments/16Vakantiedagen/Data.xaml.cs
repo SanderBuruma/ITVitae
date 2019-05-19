@@ -24,7 +24,6 @@ namespace _16Vakantiedagen
 {
     public partial class Data : UserControl
     {
-
         private readonly BinaryFormatter Formatter = new BinaryFormatter();
         private readonly string DATA_FILENAME = "WerknemerData.dat";
         internal List<Werknemer> Werknemers { get; set; } = new List<Werknemer> { };

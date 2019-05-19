@@ -1,0 +1,15 @@
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\bin\Debug\13SchijventariefInkomstenbelasting.exe.config
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\bin\Debug\13SchijventariefInkomstenbelasting.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\bin\Debug\13SchijventariefInkomstenbelasting.pdb
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.csprojAssemblyReference.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\MainWindow.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\App.g.cs
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting_MarkupCompile.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting_MarkupCompile.lref
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\MainWindow.baml
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.g.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\_13SchijventariefInkomstenbelasting.Properties.Resources.resources
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.csproj.GenerateResource.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.csproj.CoreCompileInputs.cache
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.exe
+C:\Users\Cubit32\Desktop\coding\ITVitae\13SchijventariefInkomstenbelasting\obj\Debug\13SchijventariefInkomstenbelasting.pdb

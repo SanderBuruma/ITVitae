@@ -31,6 +31,18 @@ namespace _10TowerOfHanoi
         {
             InitializeComponent();
 
+            List<SolidColorBrush> Brshs = new List<SolidColorBrush>
+            {
+                Brushes.Black,
+                Brushes.Purple,
+                Brushes.Blue,
+                Brushes.Green,
+                Brushes.Yellow,
+                Brushes.Orange,
+                Brushes.Red,
+                Brushes.Black,
+            };
+
             //create slices
             for (int i = 0; i < 8; i++)
             {
@@ -38,7 +50,7 @@ namespace _10TowerOfHanoi
                     Height = 20,
                     Content = "",
                     Width = 30 + 15 * i,
-                    Background = Brushes.DarkOrange,
+                    Background = Brshs[i%Brshs.Count],
                     BorderThickness = new Thickness(1),
                     HorizontalAlignment = HorizontalAlignment.Left,
                     VerticalAlignment = VerticalAlignment.Bottom,
@@ -47,7 +59,7 @@ namespace _10TowerOfHanoi
             }
 
             Reset();
-            ReDrawSlices();
+            MoveSlices();
         }
 
         private void Reset()
@@ -65,7 +77,7 @@ namespace _10TowerOfHanoi
         /*
          * invoke when slices are moved
          */
-        private void ReDrawSlices()
+        private void MoveSlices()
         {
             for (int i = SliceImages.Length-1; i>=0; i--)
             {
@@ -86,6 +98,8 @@ namespace _10TowerOfHanoi
                 return;
             if (MouseDownI >= SliceStacks.Length || MouseDownI < 0)
                 return;
+            if (MouseUpI >= SliceStacks.Length || MouseUpI < 0)
+                return;
             if (SliceStacks[MouseDownI].Length == 0)
                 return;
 
@@ -99,7 +113,7 @@ namespace _10TowerOfHanoi
             SliceStacks[MouseUpI] += FromStackChars[FromStackChars.Count() - 1].ToString();
             SliceStacks[MouseDownI] = SliceStacks[MouseDownI].Substring(0, SliceStacks[MouseDownI].Length - 1);
             Moves++;
-            ReDrawSlices();
+            MoveSlices();
             CheckGameOver();
         }
 
@@ -109,7 +123,7 @@ namespace _10TowerOfHanoi
             {
                 MessageBox.Show("Congratlations! You moved the tower of Hanoi to its new home! And you did it in only " + Moves.ToString() + " moves!");
                 Reset();
-                ReDrawSlices();
+                MoveSlices();
             }
         }
 

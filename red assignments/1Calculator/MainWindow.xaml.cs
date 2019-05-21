@@ -29,12 +29,121 @@ namespace _1Calculator
         public MainWindow()
         {
             InitializeComponent();
+            Reset();
+        }
+
+        public void Reset()
+        {
             Val1 = "0";
             Val2 = "0";
             ValMem = "0";
             DecimalsBeingInput = false;
-            CalcOperator = Operator.add;
+            CalcOperator = Operator.none;
             CalcMode = Mode.normal;
+            UpdateOutputBox();
+        }
+
+        private void AddNumber(string x)
+        {
+            string[] splitVal;
+            if (Val1.IndexOf(".") > 0)
+                splitVal = Val1.Split('.');
+            else
+                splitVal = new string[] { Val1, "" };
+
+
+            if (DecimalsBeingInput)
+                splitVal[1] += x;
+            else
+            {
+                if (x == "0" &&
+                    splitVal[0].Substring(0, 1) == "0")
+                    return;
+                splitVal[0] += x;
+            }
+
+            if (splitVal[0].Length > 1)
+                if (splitVal[0].Substring(0, 1) == "0")
+                    splitVal[0] = splitVal[0].Substring(1);
+
+            if (CalcMode == Mode.euro)
+            {
+                while (splitVal[1].Length < 2)
+                    splitVal[1] += "0";
+                if (splitVal[1].Length > 2)
+                    splitVal[1] = splitVal[1].Substring(splitVal[1].Length - 2);
+            }
+
+            if (splitVal[1].Length > 0)
+                Val1 = splitVal[0] + "." + splitVal[1];
+            else
+                Val1 = splitVal[0];
+
+            UpdateOutputBox();
+        }
+
+        private void UpdateOutputBox()
+        {
+            switch (CalcMode)
+            {
+                case Mode.normal:
+                    OutputBox.Text = Val1;
+                    break;
+                case Mode.euro:
+                    OutputBox.Text = string.Format("€{0:N2}", Val1);
+                    break;
+                case Mode.percentage:
+                    OutputBox.Text = string.Format("%{0:N2}", double.Parse(Val1)*100);
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        private void MoveVals()
+        {
+            Val2 = Val1;
+            Val1 = "0";
+            DecimalsBeingInput = false;
+            UpdateOutputBox();
+        }
+
+        private void Calculate()
+        {
+            float v1 = float.Parse(Val1);
+            float v2 = float.Parse(Val2);
+            switch (CalcOperator)
+            {
+                case Operator.add:
+                    v2 += v1;
+                    break;
+                case Operator.subtract:
+                    v2 -= v1;
+                    break;
+                case Operator.multiply:
+                    v2 *= v1;
+                    break;
+                case Operator.divide:
+                    if (v1 != 0)
+                        v2 /= v1;
+                    else
+                        return;
+                    break;
+                default:
+                    return;
+            }
+
+            Val1 = v2.ToString();
+
+            CalcOperator = Operator.none;
+            UpdateOutputBox();
+            //Val2 = "0";
+        }
+
+        private string ToEuroString(string s)
+        {
+            float f = float.Parse(s);
+            return string.Format("{0:0.00}", f);
         }
 
         private void Button_0_Click(object sender, RoutedEventArgs e)
@@ -89,9 +198,7 @@ namespace _1Calculator
         private void Button_MemoryOut_Click(object sender, RoutedEventArgs e)
         {
             if (CalcMode == Mode.euro)
-            {
                 Val1 = ToEuroString(ValMem);
-            }
             else
                 Val1 = ValMem;
             UpdateOutputBox();
@@ -132,11 +239,7 @@ namespace _1Calculator
 
         private void Button_Dot_Click(object sender, RoutedEventArgs e)
         {
-            if (DecimalsBeingInput)
-            {
-                DecimalsBeingInput = false;
-            }
-            else
+            if (!DecimalsBeingInput)
             {
                 DecimalsBeingInput = true;
             }
@@ -148,11 +251,7 @@ namespace _1Calculator
         }
         private void Button_Clear_Click(object sender, RoutedEventArgs e)
         {
-            Val1 = "0";
-            Val2 = "0";
-            CalcOperator = (int)Operator.add;
-            CalcMode = Mode.normal;
-            UpdateOutputBox();
+            Reset();
         }
 
         private void Button_Euro_Click(object sender, RoutedEventArgs e)
@@ -165,130 +264,24 @@ namespace _1Calculator
             else
             {
                 CalcMode = Mode.euro;
-                Val1 = ToEuroString(Val1);
-                Val2 = ToEuroString(Val2);
+                //Val1 = ToEuroString(Val1);
+                //Val2 = ToEuroString(Val2);
                 UpdateOutputBox();
             }
         }
 
         private void Button_Percentage_Click(object sender, RoutedEventArgs e)
         {
-            //todo
-        }
-
-        private void AddNumber (string x)
-        {
-            string[] splitVal;
-            if (Val1.IndexOf(".") > 0)
+            if (CalcMode == Mode.percentage)
             {
-                splitVal = Val1.Split('.');
+                CalcMode = Mode.normal;
+                UpdateOutputBox();
             }
             else
             {
-                splitVal = new string[] { Val1, "" };
+                CalcMode = Mode.percentage;
+                UpdateOutputBox();
             }
-
-
-            if (DecimalsBeingInput)
-            {
-                splitVal[1] += x;
-            }
-            else
-            {
-                if (x == "0" && 
-                    splitVal[0].Substring(0, 1) == "0")
-                    return;
-                splitVal[0] += x;
-            }
-
-            //remove leading zero
-            if (splitVal[0].Length > 1)
-                if (splitVal[0].Substring(0, 1) == "0")
-                    splitVal[0] = splitVal[0].Substring(1);
-
-            if (CalcMode == Mode.euro)
-            {
-                while (splitVal[1].Length < 2)
-                {
-                    splitVal[1] += "0";
-                }
-                if (splitVal[1].Length > 2)
-                {
-                    splitVal[1] = splitVal[1].Substring(splitVal[1].Length - 2);
-                }
-            }
-
-            if (splitVal[1].Length > 0)
-                Val1 = splitVal[0] + "." + splitVal[1];
-            else
-                Val1 = splitVal[0];
-
-            UpdateOutputBox();
-        }
-
-        private void UpdateOutputBox()
-        {
-            switch(CalcMode)
-            {
-                case Mode.normal:
-                    OutputBox.Text = Val1;
-                    break;
-                case Mode.euro:
-                    OutputBox.Text = "€ " + Val1;
-                    break;
-                default:
-                    break;
-            }
-        }
-
-        private void MoveVals()
-        {
-            Val2 = Val1;
-            Val1 = "0";
-            DecimalsBeingInput = false;
-            UpdateOutputBox();
-        }
-
-        private void Calculate()
-        {
-            float v1 = float.Parse(Val1);
-            float v2 = float.Parse(Val2);
-            switch (CalcOperator)
-            {
-                case Operator.add:
-                    v2 += v1;
-                    break;
-                case Operator.subtract:
-                    v2 -= v1;
-                    break;
-                case Operator.multiply:
-                    v2 *= v1;
-                    break;
-                case Operator.divide:
-                    if (v1 != 0)
-                        v2 /= v1;
-                    else
-                        return;
-                    break;
-                default:
-                    break;
-            }
-
-            if (CalcMode == Mode.euro)
-            {
-                Val1 = ToEuroString(v2.ToString());
-            }
-            else
-                Val1 = v2.ToString();
-            UpdateOutputBox();
-            //Val2 = "0";
-            //CalcOperator = Operator.add;
-        }
-
-        private string ToEuroString(string s)
-        {
-            float f = float.Parse(s);
-            return string.Format("{0:0.00}", f);
         }
 
         enum Operator
@@ -296,7 +289,8 @@ namespace _1Calculator
             add,
             subtract,
             multiply,
-            divide
+            divide,
+            none
         }
         enum Mode
         {

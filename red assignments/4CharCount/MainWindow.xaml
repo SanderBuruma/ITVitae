@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_4CharCount"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
     <Grid>
         <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="19" Margin="50,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="580" MouseDown="Button1_Click"/>
         <Button x:Name="Button1" Content="Select TXT File" HorizontalAlignment="Left" Margin="635,52,0,0" VerticalAlignment="Top" Width="124" Click="Button1_Click"/>

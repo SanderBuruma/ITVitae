@@ -57,7 +57,7 @@ namespace _4CharCount
                 {
                     if (charCount[i] > 0)
                     {
-                        tempString += string.Format("\"{0,-1}\": {1,-4}", (char)i, charCount[i]);
+                        tempString += string.Format("\"{0,-1}\": {1,-5}", (char)i, charCount[i]);
                     }
                 }
 
